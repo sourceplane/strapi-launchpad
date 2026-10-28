@@ -1,0 +1,54 @@
+{
+ "id": 1,
+ "documentId": "euswzt2vzx97qi6zzgodthi7",
+ "heading": "Blog",
+ "sub_heading": "",
+ "createdAt": "2024-09-10T08:03:39.548Z",
+ "updatedAt": "2024-09-16T12:30:00.342Z",
+ "publishedAt": "2024-09-16T12:30:00.325Z",
+ "locale": "en",
+ "localizations": [
+  {
+   "id": 2,
+   "documentId": "euswzt2vzx97qi6zzgodthi7",
+   "heading": "Blog",
+   "sub_heading": null,
+   "createdAt": "2024-09-10T13:38:40.793Z",
+   "updatedAt": "2024-09-16T12:33:17.099Z",
+   "publishedAt": "2024-09-16T12:33:17.079Z",
+   "locale": "fr"
+  }
+ ],
+ "dynamic_zone": [],
+ "seo": {
+  "id": 1,
+  "metaTitle": "LaunchPad Blog - Tips and Insights on Content Delivery",
+  "metaDescription": "Stay updated with the latest tips, trends, and case studies on content management and delivery. Our blog is packed with valuable insights to help you make the most out of LaunchPad's powerful tools.",
+  "keywords": null,
+  "metaRobots": null,
+  "structuredData": null,
+  "metaViewport": null,
+  "canonicalURL": null,
+  "metaImage": {
+   "id": 40,
+   "documentId": "vuc9ddahfwfckq8y01sbu5dl",
+   "name": "Blog.jpg",
+   "alternativeText": null,
+   "caption": null,
+   "focalPoint": null,
+   "width": 1920,
+   "height": 966,
+   "hash": "Blog_bd35597734",
+   "ext": ".jpg",
+   "mime": "image/jpeg",
+   "size": 39.6,
+   "url": "/uploads/Blog_bd35597734.jpg",
+   "previewUrl": null,
+   "provider": "local",
+   "provider_metadata": null,
+   "createdAt": "2024-09-16T12:29:58.211Z",
+   "updatedAt": "2025-04-07T15:22:13.286Z",
+   "publishedAt": "2024-09-16T12:29:58.211Z"
+  }
+ }
+}

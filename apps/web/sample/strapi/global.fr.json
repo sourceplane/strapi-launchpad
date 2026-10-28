@@ -1,0 +1,235 @@
+{
+ "id": 4,
+ "documentId": "en793kiwci00j3coe6fxod3r",
+ "admin_title": "Global",
+ "add_to_cart": "Ajouter au panier",
+ "your_cart": "Votre panier",
+ "buy_now": "Acheter maintenant!",
+ "createdAt": "2024-09-10T13:13:42.737Z",
+ "updatedAt": "2026-02-19T23:03:47.657Z",
+ "publishedAt": "2026-02-19T23:03:47.672Z",
+ "locale": "fr",
+ "seo": {
+  "id": 6,
+  "metaTitle": "LaunchPad – Diffusez votre contenu en orbite",
+  "metaDescription": "LaunchPad est la solution idéale pour diffuser du contenu à une vitesse fulgurante. ",
+  "keywords": null,
+  "metaRobots": null,
+  "structuredData": null,
+  "metaViewport": null,
+  "canonicalURL": null,
+  "metaImage": {
+   "id": 38,
+   "documentId": "vaipw3ju1syr4fjte2vstyry",
+   "name": "LaunchPad.jpg",
+   "alternativeText": null,
+   "caption": null,
+   "focalPoint": null,
+   "width": 1920,
+   "height": 967,
+   "hash": "Launch_Pad_2ce50f287f",
+   "ext": ".jpg",
+   "mime": "image/jpeg",
+   "size": 38.91,
+   "url": "/uploads/Launch_Pad_2ce50f287f.jpg",
+   "previewUrl": null,
+   "provider": "local",
+   "provider_metadata": null,
+   "createdAt": "2024-09-16T12:27:09.937Z",
+   "updatedAt": "2025-04-07T15:22:12.978Z",
+   "publishedAt": "2024-09-16T12:27:09.938Z"
+  }
+ },
+ "navbar": {
+  "id": 4,
+  "left_navbar_items": [
+   {
+    "id": 58,
+    "text": "Tarifs",
+    "URL": "/pricing",
+    "target": null
+   },
+   {
+    "id": 59,
+    "text": "Produits",
+    "URL": "/products",
+    "target": null
+   },
+   {
+    "id": 60,
+    "text": "Blog",
+    "URL": "/blog",
+    "target": null
+   },
+   {
+    "id": 61,
+    "text": "Contact",
+    "URL": "/contact",
+    "target": null
+   },
+   {
+    "id": 62,
+    "text": "FAQ",
+    "URL": "/faq",
+    "target": null
+   }
+  ],
+  "right_navbar_items": [
+   {
+    "id": 63,
+    "text": "Reserver une demo",
+    "URL": "/contact",
+    "target": null
+   },
+   {
+    "id": 64,
+    "text": "Inscription",
+    "URL": "/sign-up",
+    "target": null
+   }
+  ],
+  "logo": {
+   "id": 8,
+   "documentId": "qb5sukjx6sdpaamsqe0p1ptm",
+   "company": "LaunchPad",
+   "createdAt": "2024-08-07T10:35:40.594Z",
+   "updatedAt": "2024-09-09T11:33:00.624Z",
+   "publishedAt": "2024-09-09T11:33:00.613Z",
+   "image": {
+    "id": 10,
+    "documentId": "xvftb2pgf1y959adxuqgn5vx",
+    "name": "logo.png",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1024,
+    "height": 1024,
+    "hash": "logo_6a13c79c4b",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 122.96,
+    "url": "/uploads/logo_6a13c79c4b.png",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-08-07T10:35:35.923Z",
+    "updatedAt": "2025-04-07T15:22:11.054Z",
+    "publishedAt": "2024-08-07T10:35:35.923Z"
+   }
+  }
+ },
+ "footer": {
+  "id": 4,
+  "description": "LaunchPad est une plateforme de diffusion de contenu rapide qui vous aide à diffuser du contenu à vos utilisateurs de manière rapide et efficace.",
+  "copyright": "Copyright © 2024 LaunchPad INC",
+  "designed_developed_by": "Conçu et développé par Strapi & Aceternity",
+  "built_with": "fait avec Strapi, Next.js, Tailwind CSS, Framer Motion, Aceternity UI et icons8",
+  "internal_links": [
+   {
+    "id": 65,
+    "text": "Tarifs",
+    "URL": "/pricing",
+    "target": null
+   },
+   {
+    "id": 66,
+    "text": "Blog",
+    "URL": "/blog",
+    "target": null
+   },
+   {
+    "id": 67,
+    "text": "Produits",
+    "URL": "/products",
+    "target": null
+   },
+   {
+    "id": 68,
+    "text": "FAQ",
+    "URL": "/faq",
+    "target": null
+   },
+   {
+    "id": 69,
+    "text": "Contact",
+    "URL": "/contact",
+    "target": null
+   },
+   {
+    "id": 70,
+    "text": "Inscription",
+    "URL": "/sign-up",
+    "target": null
+   }
+  ],
+  "policy_links": [
+   {
+    "id": 71,
+    "text": "Politique de confidentialité",
+    "URL": "/",
+    "target": null
+   },
+   {
+    "id": 72,
+    "text": "Conditions d'utilisation",
+    "URL": "/",
+    "target": null
+   },
+   {
+    "id": 73,
+    "text": "Politique de remboursement",
+    "URL": "/",
+    "target": null
+   }
+  ],
+  "social_media_links": [
+   {
+    "id": 74,
+    "text": "X",
+    "URL": "https://x.com/strapijs",
+    "target": "_blank"
+   },
+   {
+    "id": 75,
+    "text": "LinkedIn",
+    "URL": "https://linkedin.com/strapi",
+    "target": "_blank"
+   },
+   {
+    "id": 76,
+    "text": "GitHub",
+    "URL": "https://github.com/strapi/launchpad",
+    "target": "_blank"
+   }
+  ],
+  "logo": {
+   "id": 8,
+   "documentId": "qb5sukjx6sdpaamsqe0p1ptm",
+   "company": "LaunchPad",
+   "createdAt": "2024-08-07T10:35:40.594Z",
+   "updatedAt": "2024-09-09T11:33:00.624Z",
+   "publishedAt": "2024-09-09T11:33:00.613Z",
+   "image": {
+    "id": 10,
+    "documentId": "xvftb2pgf1y959adxuqgn5vx",
+    "name": "logo.png",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1024,
+    "height": 1024,
+    "hash": "logo_6a13c79c4b",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 122.96,
+    "url": "/uploads/logo_6a13c79c4b.png",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-08-07T10:35:35.923Z",
+    "updatedAt": "2025-04-07T15:22:11.054Z",
+    "publishedAt": "2024-08-07T10:35:35.923Z"
+   }
+  }
+ }
+}

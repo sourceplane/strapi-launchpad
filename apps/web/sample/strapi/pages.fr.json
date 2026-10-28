@@ -1,0 +1,2323 @@
+[
+ {
+  "id": 10,
+  "documentId": "v2q7m5pvvzibefz5zv4cvq62",
+  "slug": "pricing",
+  "createdAt": "2024-09-10T16:41:11.137Z",
+  "updatedAt": "2024-09-16T12:36:41.706Z",
+  "publishedAt": "2024-09-16T12:36:41.737Z",
+  "locale": "fr",
+  "localizations": [
+   {
+    "id": 9,
+    "documentId": "v2q7m5pvvzibefz5zv4cvq62",
+    "slug": "pricing",
+    "createdAt": "2024-08-07T17:05:01.681Z",
+    "updatedAt": "2024-09-16T12:35:49.630Z",
+    "publishedAt": "2024-09-16T12:35:49.668Z",
+    "locale": "en"
+   }
+  ],
+  "seo": {
+   "id": 16,
+   "metaTitle": "Plans tarifaires - Diffusion de contenu LaunchPad",
+   "metaDescription": "Choisissez le forfait idéal pour vos besoins de diffusion de contenu. Découvrez les options de tarification de LaunchPad, de Starter à Enterprise, conçues pour répondre aux besoins des entreprises de toutes tailles avec des solutions évolutives.",
+   "keywords": null,
+   "metaRobots": null,
+   "structuredData": null,
+   "metaViewport": null,
+   "canonicalURL": null,
+   "metaImage": {
+    "id": 41,
+    "documentId": "mpyyaqx6guurtfnlw7xc2kkm",
+    "name": "Pricing.jpg",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1920,
+    "height": 965,
+    "hash": "Pricing_8c8f61211e",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": 95.46,
+    "url": "/uploads/Pricing_8c8f61211e.jpg",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-09-16T12:35:45.312Z",
+    "updatedAt": "2025-04-07T15:22:13.447Z",
+    "publishedAt": "2024-09-16T12:35:45.313Z"
+   }
+  },
+  "dynamic_zone": [
+   {
+    "id": 6,
+    "heading": "Tarifs",
+    "sub_heading": "Choisissez votre charge utile",
+    "plans": [
+     {
+      "id": 11,
+      "documentId": "sltcgbanxa3rmlgj6zob1ex9",
+      "name": "Starter Shuttle",
+      "price": 100,
+      "sub_text": "launch",
+      "featured": false,
+      "createdAt": "2024-08-07T10:10:39.444Z",
+      "updatedAt": "2026-02-17T22:48:55.881Z",
+      "publishedAt": "2026-02-17T22:48:55.897Z",
+      "locale": "en",
+      "perks": [
+       {
+        "id": 70,
+        "text": "Launch up to 1,000 content items"
+       },
+       {
+        "id": 71,
+        "text": "Basic Mission Control Dashboard"
+       },
+       {
+        "id": 72,
+        "text": "Standard Delivery"
+       },
+       {
+        "id": 73,
+        "text": "Basic analytics"
+       }
+      ],
+      "additional_perks": [],
+      "CTA": {
+       "id": 43,
+       "text": "Get Started",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      },
+      "product": {
+       "id": 14,
+       "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+       "name": "Mission Control Plus",
+       "price": 3000,
+       "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+       "slug": "mission-control-plus",
+       "featured": false,
+       "createdAt": "2024-08-07T14:37:26.800Z",
+       "updatedAt": "2026-02-17T23:05:59.806Z",
+       "publishedAt": "2026-02-17T23:05:59.816Z",
+       "locale": "en"
+      },
+      "localizations": [
+       {
+        "id": 14,
+        "documentId": "sltcgbanxa3rmlgj6zob1ex9",
+        "name": "Starter Shuttle",
+        "price": 85,
+        "sub_text": "lancement",
+        "featured": false,
+        "createdAt": "2026-02-17T22:48:45.194Z",
+        "updatedAt": "2026-02-17T23:35:33.838Z",
+        "publishedAt": "2026-02-17T23:35:33.846Z",
+        "locale": "fr",
+        "perks": [
+         {
+          "id": 91,
+          "text": "Lancez jusqu’à 1 000 éléments de contenu"
+         },
+         {
+          "id": 92,
+          "text": "Tableau de bord de contrôle basique"
+         },
+         {
+          "id": 93,
+          "text": "Livraison standard"
+         },
+         {
+          "id": 94,
+          "text": "Analyses basiques"
+         }
+        ],
+        "additional_perks": [],
+        "CTA": {
+         "id": 46,
+         "text": "Commencer",
+         "URL": null,
+         "target": null,
+         "variant": "primary"
+        }
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "documentId": "ysf6c3nbf9n2ik07vr572kve",
+      "name": "Pro Rocket",
+      "price": 3000,
+      "sub_text": "launch",
+      "featured": null,
+      "createdAt": "2024-08-07T10:11:28.756Z",
+      "updatedAt": "2024-09-04T11:16:58.599Z",
+      "publishedAt": "2024-09-04T11:25:46.857Z",
+      "locale": "en",
+      "perks": [
+       {
+        "id": 28,
+        "text": "Launch up to 100,000 content items"
+       },
+       {
+        "id": 29,
+        "text": "Advanced Mission Control Dashboard"
+       },
+       {
+        "id": 30,
+        "text": "High Speed Delivery"
+       },
+       {
+        "id": 31,
+        "text": "Advanced analytics"
+       },
+       {
+        "id": 32,
+        "text": "Priority Support"
+       }
+      ],
+      "additional_perks": [
+       {
+        "id": 33,
+        "text": "Everything included from Starter Shuttle"
+       }
+      ],
+      "CTA": {
+       "id": 37,
+       "text": "Get Started",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      },
+      "product": {
+       "id": 14,
+       "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+       "name": "Mission Control Plus",
+       "price": 3000,
+       "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+       "slug": "mission-control-plus",
+       "featured": false,
+       "createdAt": "2024-08-07T14:37:26.800Z",
+       "updatedAt": "2026-02-17T23:05:59.806Z",
+       "publishedAt": "2026-02-17T23:05:59.816Z",
+       "locale": "en"
+      },
+      "localizations": [
+       {
+        "id": 15,
+        "documentId": "ysf6c3nbf9n2ik07vr572kve",
+        "name": "Pro Rocket",
+        "price": 2500,
+        "sub_text": "lancement",
+        "featured": false,
+        "createdAt": "2026-02-17T22:46:39.527Z",
+        "updatedAt": "2026-02-17T23:35:47.026Z",
+        "publishedAt": "2026-02-17T23:35:47.037Z",
+        "locale": "fr",
+        "perks": [
+         {
+          "id": 95,
+          "text": "Lancez jusqu’à 100 000 éléments de contenu"
+         },
+         {
+          "id": 96,
+          "text": "Tableau de bord de contrôle avancé"
+         },
+         {
+          "id": 97,
+          "text": "Livraison à grande vitesse"
+         },
+         {
+          "id": 98,
+          "text": "Analyses avancées"
+         },
+         {
+          "id": 99,
+          "text": "Support prioritaire"
+         }
+        ],
+        "additional_perks": [
+         {
+          "id": 100,
+          "text": "Tout ce qui est inclus dans Starter Shuttle"
+         }
+        ],
+        "CTA": {
+         "id": 47,
+         "text": "Commencer",
+         "URL": null,
+         "target": null,
+         "variant": "primary"
+        }
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "documentId": "rdvhrmnjyh1phnxur3yw9wk2",
+      "name": "Team Explorer",
+      "price": 15000,
+      "sub_text": "launch",
+      "featured": true,
+      "createdAt": "2024-08-07T10:12:17.980Z",
+      "updatedAt": "2024-09-04T11:17:25.172Z",
+      "publishedAt": "2024-09-04T11:25:46.857Z",
+      "locale": "en",
+      "perks": [
+       {
+        "id": 34,
+        "text": "Launch up to 1,000,000 content items"
+       },
+       {
+        "id": 35,
+        "text": "Collaborative Mission Control Dashboard"
+       },
+       {
+        "id": 36,
+        "text": "High-Speed Delivery"
+       },
+       {
+        "id": 37,
+        "text": "Advanced analytics and reporting"
+       },
+       {
+        "id": 38,
+        "text": "Priority Support"
+       },
+       {
+        "id": 39,
+        "text": "Team collaboration tools"
+       }
+      ],
+      "additional_perks": [
+       {
+        "id": 40,
+        "text": "Everything included from Starter Shuttle"
+       },
+       {
+        "id": 41,
+        "text": "Everything included from Pro Rocket"
+       }
+      ],
+      "CTA": {
+       "id": 38,
+       "text": "Get Started",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      },
+      "product": {
+       "id": 8,
+       "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+       "name": "Payload Manager Pro",
+       "price": 2000,
+       "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+       "slug": "payload-manager-pro",
+       "featured": true,
+       "createdAt": "2024-08-07T14:33:49.508Z",
+       "updatedAt": "2024-09-12T10:40:52.601Z",
+       "publishedAt": "2024-09-12T10:40:52.666Z",
+       "locale": "en"
+      },
+      "localizations": [
+       {
+        "id": 16,
+        "documentId": "rdvhrmnjyh1phnxur3yw9wk2",
+        "name": "Team Explorer",
+        "price": 12600,
+        "sub_text": "Lancement",
+        "featured": true,
+        "createdAt": "2026-02-17T22:52:40.973Z",
+        "updatedAt": "2026-02-17T23:36:43.853Z",
+        "publishedAt": "2026-02-17T23:36:43.860Z",
+        "locale": "fr",
+        "perks": [
+         {
+          "id": 101,
+          "text": "Lancez jusqu’à 1 000 000 éléments de contenu"
+         },
+         {
+          "id": 102,
+          "text": "Tableau de bord de contrôle collaboratif"
+         },
+         {
+          "id": 103,
+          "text": "Livraison ultra-rapide"
+         },
+         {
+          "id": 104,
+          "text": "Analyses et rapports avancés"
+         },
+         {
+          "id": 105,
+          "text": "Support prioritaire"
+         },
+         {
+          "id": 106,
+          "text": "Outils de collaboration d’équipe"
+         }
+        ],
+        "additional_perks": [
+         {
+          "id": 107,
+          "text": "Tout ce qui est inclus dans Starter Shuttle"
+         },
+         {
+          "id": 108,
+          "text": "Tout ce qui est inclus dans Pro Rocket"
+         }
+        ],
+        "CTA": {
+         "id": 48,
+         "text": "Commencer",
+         "URL": null,
+         "target": null,
+         "variant": "primary"
+        }
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "documentId": "dnz7ts4ymiwdmvemtbebn4k6",
+      "name": "Enterprise Shuttle",
+      "price": null,
+      "sub_text": "",
+      "featured": null,
+      "createdAt": "2024-08-07T10:13:12.700Z",
+      "updatedAt": "2024-09-09T11:35:02.008Z",
+      "publishedAt": "2024-09-09T11:35:02.030Z",
+      "locale": "en",
+      "perks": [
+       {
+        "id": 42,
+        "text": "Unlimited content items per launch"
+       },
+       {
+        "id": 43,
+        "text": "Customizable Mission Control Dashboard"
+       },
+       {
+        "id": 44,
+        "text": "Ultra-Speed Delivery"
+       },
+       {
+        "id": 45,
+        "text": "Comprehensive analytics and reporting"
+       },
+       {
+        "id": 46,
+        "text": "Dedicated Support Team"
+       },
+       {
+        "id": 47,
+        "text": "Custom Integrations and Solutions"
+       }
+      ],
+      "additional_perks": [
+       {
+        "id": 48,
+        "text": "Everything included from Starter Shuttle"
+       },
+       {
+        "id": 49,
+        "text": "Everything included from Pro Rocket"
+       },
+       {
+        "id": 50,
+        "text": "Everything included from Team Explorer"
+       }
+      ],
+      "CTA": {
+       "id": 39,
+       "text": "Contact us",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      },
+      "product": {
+       "id": 8,
+       "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+       "name": "Payload Manager Pro",
+       "price": 2000,
+       "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+       "slug": "payload-manager-pro",
+       "featured": true,
+       "createdAt": "2024-08-07T14:33:49.508Z",
+       "updatedAt": "2024-09-12T10:40:52.601Z",
+       "publishedAt": "2024-09-12T10:40:52.666Z",
+       "locale": "en"
+      },
+      "localizations": [
+       {
+        "id": 13,
+        "documentId": "dnz7ts4ymiwdmvemtbebn4k6",
+        "name": "Enterprise Shuttle",
+        "price": null,
+        "sub_text": null,
+        "featured": false,
+        "createdAt": "2026-02-17T22:45:08.515Z",
+        "updatedAt": "2026-02-17T23:25:05.553Z",
+        "publishedAt": "2026-02-17T23:25:05.568Z",
+        "locale": "fr",
+        "perks": [
+         {
+          "id": 82,
+          "text": "Éléments de contenu illimités par lancement"
+         },
+         {
+          "id": 83,
+          "text": "Tableau de bord de contrôle personnalisable"
+         },
+         {
+          "id": 84,
+          "text": "Livraison ultra-rapide"
+         },
+         {
+          "id": 85,
+          "text": "Analyses et rapports complets"
+         },
+         {
+          "id": 86,
+          "text": "Équipe d’assistance dédiée"
+         },
+         {
+          "id": 87,
+          "text": "Intégrations et solutions personnalisées"
+         }
+        ],
+        "additional_perks": [
+         {
+          "id": 88,
+          "text": "Tout ce qui est inclus dans Starter Shuttle"
+         },
+         {
+          "id": 89,
+          "text": "Tout ce qui est inclus dans Pro Rocket"
+         },
+         {
+          "id": 90,
+          "text": "Tout ce qui est inclus dans Team Explorer"
+         }
+        ],
+        "CTA": {
+         "id": 45,
+         "text": "Contactez-nous",
+         "URL": null,
+         "target": null,
+         "variant": "primary"
+        }
+       }
+      ]
+     }
+    ],
+    "__component": "dynamic-zone.pricing"
+   },
+   {
+    "id": 6,
+    "heading": "Approuvé par les plus grandes marques",
+    "sub_heading": "LaunchPad bénéficie de la confiance des organisations spatiales Fortune 500.",
+    "logos": [
+     {
+      "id": 9,
+      "documentId": "qjjiemvopc44oik678axubro",
+      "company": "Rocket Story",
+      "createdAt": "2024-09-10T17:57:25.077Z",
+      "updatedAt": "2024-09-10T17:57:25.077Z",
+      "publishedAt": "2024-09-10T17:57:25.069Z",
+      "image": {
+       "id": 4,
+       "documentId": "k7xtwwqio439lkrvsjzwfe5j",
+       "name": "instagram.svg",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 48,
+       "height": 48,
+       "hash": "instagram_fa068d4893",
+       "ext": ".svg",
+       "mime": "image/svg+xml",
+       "size": 16.34,
+       "url": "/uploads/instagram_fa068d4893.svg",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-08-07T09:07:50.116Z",
+       "updatedAt": "2025-04-07T15:22:11.024Z",
+       "publishedAt": "2024-08-07T09:07:50.116Z"
+      }
+     },
+     {
+      "id": 13,
+      "documentId": "cnbbzmsa8htv10izyrqb4ijc",
+      "company": "StackHole",
+      "createdAt": "2024-09-10T18:29:02.731Z",
+      "updatedAt": "2024-09-10T18:29:02.731Z",
+      "publishedAt": "2024-09-10T18:29:02.728Z",
+      "image": {
+       "id": 2,
+       "documentId": "of3u5uin4ab1i4b06ykv2iio",
+       "name": "linkedin.svg",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 48,
+       "height": 48,
+       "hash": "linkedin_c7173b3a02",
+       "ext": ".svg",
+       "mime": "image/svg+xml",
+       "size": 0.6,
+       "url": "/uploads/linkedin_c7173b3a02.svg",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-08-07T09:07:50.109Z",
+       "updatedAt": "2025-04-07T15:22:11.020Z",
+       "publishedAt": "2024-08-07T09:07:50.109Z"
+      }
+     },
+     {
+      "id": 16,
+      "documentId": "tbvgmv625fm0m8imm6jak7l5",
+      "company": "CosmoTrends",
+      "createdAt": "2024-09-10T18:37:33.546Z",
+      "updatedAt": "2024-09-10T18:37:33.546Z",
+      "publishedAt": "2024-09-10T18:37:33.543Z",
+      "image": {
+       "id": 33,
+       "documentId": "fiawlzjlnds9juhqz5jy96qf",
+       "name": "8fe214ce0671c82b2dffba3aa6968f38.png",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 346,
+       "height": 99,
+       "hash": "8fe214ce0671c82b2dffba3aa6968f38_afa1e9fd29",
+       "ext": ".png",
+       "mime": "image/png",
+       "size": 3.93,
+       "url": "/uploads/8fe214ce0671c82b2dffba3aa6968f38_afa1e9fd29.png",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-09-10T18:37:11.075Z",
+       "updatedAt": "2025-04-07T15:22:12.271Z",
+       "publishedAt": "2024-09-10T18:37:11.076Z"
+      }
+     },
+     {
+      "id": 15,
+      "documentId": "buatyrpykuoxvnitn1ydkhjk",
+      "company": "StarKeting",
+      "createdAt": "2024-09-10T18:37:23.289Z",
+      "updatedAt": "2024-09-10T18:37:23.289Z",
+      "publishedAt": "2024-09-10T18:37:23.286Z",
+      "image": {
+       "id": 34,
+       "documentId": "o9j0pp6sc54cu4yu666a4h3g",
+       "name": "1c29a4618a32311bcb30f8766f125410.png",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 539,
+       "height": 68,
+       "hash": "1c29a4618a32311bcb30f8766f125410_3db99ce60b",
+       "ext": ".png",
+       "mime": "image/png",
+       "size": 10.37,
+       "url": "/uploads/1c29a4618a32311bcb30f8766f125410_3db99ce60b.png",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-09-10T18:37:11.149Z",
+       "updatedAt": "2025-04-07T15:22:12.375Z",
+       "publishedAt": "2024-09-10T18:37:11.150Z"
+      }
+     },
+     {
+      "id": 10,
+      "documentId": "cn583xrprefc0z2r75a4vvqn",
+      "company": "AstroContent",
+      "createdAt": "2024-09-10T17:57:36.995Z",
+      "updatedAt": "2024-09-10T17:57:36.995Z",
+      "publishedAt": "2024-09-10T17:57:36.991Z",
+      "image": {
+       "id": 29,
+       "documentId": "z056knf71rcfkiq8i2e68iev",
+       "name": "fe031ea8fe069eeaffc144d5f7323fe6.png",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 569,
+       "height": 65,
+       "hash": "fe031ea8fe069eeaffc144d5f7323fe6_3fd70d3be4",
+       "ext": ".png",
+       "mime": "image/png",
+       "size": 5.27,
+       "url": "/uploads/fe031ea8fe069eeaffc144d5f7323fe6_3fd70d3be4.png",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-09-10T17:56:37.275Z",
+       "updatedAt": "2025-04-07T15:22:11.991Z",
+       "publishedAt": "2024-09-10T17:56:37.276Z"
+      }
+     },
+     {
+      "id": 14,
+      "documentId": "ld0nudx8yxiym0dulq6k6o1o",
+      "company": "PlanetWorker",
+      "createdAt": "2024-09-10T18:29:13.786Z",
+      "updatedAt": "2024-09-10T18:29:13.786Z",
+      "publishedAt": "2024-09-10T18:29:13.782Z",
+      "image": {
+       "id": 31,
+       "documentId": "cye1jiocz2zu3doyo0fimaim",
+       "name": "6a212f698ee7a5b7fcad6703d90f4cc0.png",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 697,
+       "height": 84,
+       "hash": "6a212f698ee7a5b7fcad6703d90f4cc0_224039d0e6",
+       "ext": ".png",
+       "mime": "image/png",
+       "size": 3.44,
+       "url": "/uploads/6a212f698ee7a5b7fcad6703d90f4cc0_224039d0e6.png",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-09-10T18:28:39.625Z",
+       "updatedAt": "2025-04-07T15:22:12.132Z",
+       "publishedAt": "2024-09-10T18:28:39.625Z"
+      }
+     },
+     {
+      "id": 11,
+      "documentId": "t8zpyodcu9odeecuznajtz2e",
+      "company": "LunarStories",
+      "createdAt": "2024-09-10T17:57:48.109Z",
+      "updatedAt": "2024-09-10T17:57:48.109Z",
+      "publishedAt": "2024-09-10T17:57:48.105Z",
+      "image": {
+       "id": 3,
+       "documentId": "yqbeeaxs3pmmc2hib1vkf84o",
+       "name": "slack.svg",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 48,
+       "height": 48,
+       "hash": "slack_7cf9f40887",
+       "ext": ".svg",
+       "mime": "image/svg+xml",
+       "size": 1.21,
+       "url": "/uploads/slack_7cf9f40887.svg",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-08-07T09:07:50.112Z",
+       "updatedAt": "2025-04-07T15:22:11.021Z",
+       "publishedAt": "2024-08-07T09:07:50.112Z"
+      }
+     },
+     {
+      "id": 12,
+      "documentId": "ye3mxvz85n44tevcmqslyo3j",
+      "company": "SpaceLetter",
+      "createdAt": "2024-09-10T18:28:53.621Z",
+      "updatedAt": "2024-09-10T18:28:53.621Z",
+      "publishedAt": "2024-09-10T18:28:53.617Z",
+      "image": {
+       "id": 30,
+       "documentId": "w4ev86xuya5h97g1f78r82dn",
+       "name": "7ee6c51f86a8779f1ac3fb687b305e50.png",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 394,
+       "height": 72,
+       "hash": "7ee6c51f86a8779f1ac3fb687b305e50_a0b0a22418",
+       "ext": ".png",
+       "mime": "image/png",
+       "size": 3.24,
+       "url": "/uploads/7ee6c51f86a8779f1ac3fb687b305e50_a0b0a22418.png",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-09-10T18:28:39.564Z",
+       "updatedAt": "2025-04-07T15:22:12.049Z",
+       "publishedAt": "2024-09-10T18:28:39.565Z"
+      }
+     }
+    ],
+    "__component": "dynamic-zone.brands"
+   },
+   {
+    "id": 8,
+    "heading": "Prêt à lancer votre contenu ?",
+    "sub_heading": "Rejoignez LaunchPad et commencez à diffuser votre contenu avec la vitesse et la fiabilité d'une navette spatiale.",
+    "CTAs": [
+     {
+      "id": 19,
+      "text": "Réserver une démo",
+      "URL": "/contact",
+      "target": null,
+      "variant": "muted"
+     },
+     {
+      "id": 20,
+      "text": "Inscription",
+      "URL": "/sign-up",
+      "target": null,
+      "variant": "primary"
+     }
+    ],
+    "__component": "dynamic-zone.cta"
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "documentId": "sklmmefiyatesgq8r473lkzh",
+  "slug": "contact",
+  "createdAt": "2024-09-10T16:36:12.256Z",
+  "updatedAt": "2024-09-16T12:38:18.089Z",
+  "publishedAt": "2024-09-16T12:38:18.131Z",
+  "locale": "fr",
+  "localizations": [
+   {
+    "id": 12,
+    "documentId": "sklmmefiyatesgq8r473lkzh",
+    "slug": "contact",
+    "createdAt": "2024-09-05T12:23:34.804Z",
+    "updatedAt": "2024-09-16T12:38:36.872Z",
+    "publishedAt": "2024-09-16T12:38:36.912Z",
+    "locale": "en"
+   }
+  ],
+  "seo": {
+   "id": 17,
+   "metaTitle": "Contactez-nous – Demandes de renseignements sur LaunchPad",
+   "metaDescription": "Besoin d'aide ou avez-vous des questions ? Contactez l'équipe d'assistance de LaunchPad pour obtenir de l'aide. Nous sommes là pour vous aider en cas de questions, d'informations sur les produits ou d'assistance technique.",
+   "keywords": null,
+   "metaRobots": null,
+   "structuredData": null,
+   "metaViewport": null,
+   "canonicalURL": null,
+   "metaImage": {
+    "id": 43,
+    "documentId": "yfigj4qq9wk0nu0eh8f0fi1x",
+    "name": "Contact.jpg",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1920,
+    "height": 966,
+    "hash": "Contact_ccff6af752",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": 32.67,
+    "url": "/uploads/Contact_ccff6af752.jpg",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-09-16T12:37:28.711Z",
+    "updatedAt": "2025-04-07T15:22:13.762Z",
+    "publishedAt": "2024-09-16T12:37:28.711Z"
+   }
+  },
+  "dynamic_zone": [
+   {
+    "id": 3,
+    "heading": "Contactez-nous",
+    "sub_heading": "N'hésitez pas à nous contacter et nous vous répondrons à la vitesse de la lumière.",
+    "form": {
+     "id": 3,
+     "inputs": [
+      {
+       "id": 11,
+       "type": "text",
+       "name": "Nom & Prénom",
+       "placeholder": "Manu Arora"
+      },
+      {
+       "id": 12,
+       "type": "email",
+       "name": "Adresse email",
+       "placeholder": "hello@strapi.io"
+      },
+      {
+       "id": 13,
+       "type": "text",
+       "name": "Entreprise",
+       "placeholder": "Strapi"
+      },
+      {
+       "id": 14,
+       "type": "textarea",
+       "name": "Message",
+       "placeholder": "Enter your message here"
+      },
+      {
+       "id": 15,
+       "type": "submit",
+       "name": "Envoyer",
+       "placeholder": ""
+      }
+     ]
+    },
+    "social_media_icon_links": [
+     {
+      "id": 3,
+      "image": null,
+      "link": []
+     }
+    ],
+    "section": {
+     "id": 3,
+     "heading": "Des milliers d'Astropreneurs font confiance à LaunchPad",
+     "sub_heading": "Rejoignez les rangs des entrepreneurs à succès qui ont utilisé LaunchPad pour transformer leurs idées en réalité.",
+     "users": [
+      {
+       "id": 13,
+       "firstname": "John",
+       "lastname": "Doe",
+       "job": "Software Engineer",
+       "image": {
+        "id": 22,
+        "documentId": "w46bniot3uqeba0v6d3i59q9",
+        "name": "john-doe.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 128,
+        "height": 128,
+        "hash": "john_doe_1792821758",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 2.97,
+        "url": "/uploads/john_doe_1792821758.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-09-05T13:06:31.967Z",
+        "updatedAt": "2025-04-07T15:22:11.678Z",
+        "publishedAt": "2024-09-05T13:06:31.967Z"
+       }
+      },
+      {
+       "id": 14,
+       "firstname": "Robert",
+       "lastname": "Johnson",
+       "job": "Product Manager",
+       "image": {
+        "id": 25,
+        "documentId": "zhkaop3sog59o73h80ldyu3q",
+        "name": "robert-johnson.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 128,
+        "height": 128,
+        "hash": "robert_johnson_93b45a1112",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 4.49,
+        "url": "/uploads/robert_johnson_93b45a1112.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-09-05T13:06:32.028Z",
+        "updatedAt": "2025-04-07T15:22:11.764Z",
+        "publishedAt": "2024-09-05T13:06:32.030Z"
+       }
+      },
+      {
+       "id": 15,
+       "firstname": "Jane",
+       "lastname": "Smith",
+       "job": "Data Scientist",
+       "image": {
+        "id": 24,
+        "documentId": "uzwq54j5t2k43s6fybzmc2zo",
+        "name": "jane-smith.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 128,
+        "height": 128,
+        "hash": "jane_smith_5b7b8e75ef",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 4.46,
+        "url": "/uploads/jane_smith_5b7b8e75ef.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-09-05T13:06:31.983Z",
+        "updatedAt": "2025-04-07T15:22:11.734Z",
+        "publishedAt": "2024-09-05T13:06:31.983Z"
+       }
+      },
+      {
+       "id": 16,
+       "firstname": "Emily",
+       "lastname": "Davis",
+       "job": "UX Designer",
+       "image": {
+        "id": 23,
+        "documentId": "p3frromxgvegiunzgqwnby0d",
+        "name": "enily-davis.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 128,
+        "height": 128,
+        "hash": "enily_davis_44973ee0a0",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 4.82,
+        "url": "/uploads/enily_davis_44973ee0a0.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-09-05T13:06:31.973Z",
+        "updatedAt": "2025-04-07T15:22:11.707Z",
+        "publishedAt": "2024-09-05T13:06:31.973Z"
+       }
+      },
+      {
+       "id": 17,
+       "firstname": "Tyler",
+       "lastname": "Durden",
+       "job": "Soap Developer",
+       "image": {
+        "id": 26,
+        "documentId": "okelb88b6eppwzj3jplv2k5n",
+        "name": "tyler-durden.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 128,
+        "height": 128,
+        "hash": "tyler_durden_77d84b929a",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 2.72,
+        "url": "/uploads/tyler_durden_77d84b929a.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-09-05T13:06:32.055Z",
+        "updatedAt": "2025-04-07T15:22:11.793Z",
+        "publishedAt": "2024-09-05T13:06:32.055Z"
+       }
+      },
+      {
+       "id": 18,
+       "firstname": "Dora",
+       "lastname": "Mirta",
+       "job": "Explorer",
+       "image": {
+        "id": 21,
+        "documentId": "nj37ryj8y86uj6skx3lm93m2",
+        "name": "dora-mirta.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 128,
+        "height": 128,
+        "hash": "dora_mirta_fb6c81be88",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 4.07,
+        "url": "/uploads/dora_mirta_fb6c81be88.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-09-05T13:06:31.954Z",
+        "updatedAt": "2025-04-07T15:22:11.646Z",
+        "publishedAt": "2024-09-05T13:06:31.955Z"
+       }
+      }
+     ]
+    },
+    "__component": "dynamic-zone.form-next-to-section"
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "documentId": "kw6bbewtxd1gqxb8k091b6vm",
+  "slug": "faq",
+  "createdAt": "2024-09-10T16:22:58.630Z",
+  "updatedAt": "2024-09-16T12:39:31.964Z",
+  "publishedAt": "2024-09-16T12:39:31.993Z",
+  "locale": "fr",
+  "localizations": [
+   {
+    "id": 13,
+    "documentId": "kw6bbewtxd1gqxb8k091b6vm",
+    "slug": "faq",
+    "createdAt": "2024-09-05T13:22:40.963Z",
+    "updatedAt": "2024-09-16T12:39:04.002Z",
+    "publishedAt": "2024-09-16T12:39:04.030Z",
+    "locale": "en"
+   }
+  ],
+  "seo": {
+   "id": 20,
+   "metaTitle": "FAQ – LaunchPad",
+   "metaDescription": "Obtenez des réponses aux questions les plus courantes sur LaunchPad. Explorez notre page FAQ pour en savoir plus sur nos formules tarifaires, les fonctionnalités de nos produits et comment démarrer avec la diffusion de contenu.",
+   "keywords": null,
+   "metaRobots": null,
+   "structuredData": null,
+   "metaViewport": null,
+   "canonicalURL": null,
+   "metaImage": {
+    "id": 42,
+    "documentId": "sja3cvfpbtjkvek7rd0n2f9n",
+    "name": "FAQ.jpg",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1920,
+    "height": 965,
+    "hash": "FAQ_576e799607",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": 27.4,
+    "url": "/uploads/FAQ_576e799607.jpg",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-09-16T12:37:28.695Z",
+    "updatedAt": "2025-04-07T15:22:13.604Z",
+    "publishedAt": "2024-09-16T12:37:28.695Z"
+   }
+  },
+  "dynamic_zone": [
+   {
+    "id": 4,
+    "heading": "Questions fréquemment posées",
+    "sub_heading": null,
+    "faqs": [
+     {
+      "id": 12,
+      "documentId": "jj6saqw6qnszawsvalcc7uqz",
+      "question": "Qu'est-ce que LaunchPad",
+      "answer": "LaunchPad est une solution de diffusion de contenu qui utilise une technologie avancée pour envoyer votre contenu Web en orbite, garantissant une diffusion rapide et fiable à votre public.",
+      "createdAt": "2024-09-10T16:31:10.254Z",
+      "updatedAt": "2024-09-10T16:31:10.254Z",
+      "publishedAt": "2024-09-10T16:31:10.246Z",
+      "locale": "fr"
+     },
+     {
+      "id": 9,
+      "documentId": "alz9e38srinjeb3qelg9shxs",
+      "question": "Comment démarrer avec LaunchPad ?",
+      "answer": "Démarrer est facile ! Créez simplement un compte, choisissez votre forfait, achetez ou non des fonctionnalités supplémentaires, préparez votre contenu et lancez-le à l'aide de notre tableau de bord de contrôle de mission intuitif.",
+      "createdAt": "2024-09-10T16:26:45.338Z",
+      "updatedAt": "2024-09-10T16:26:45.338Z",
+      "publishedAt": "2024-09-10T16:26:45.330Z",
+      "locale": "fr"
+     },
+     {
+      "id": 10,
+      "documentId": "gjgi3rlniru9rsx6xdt1pxwa",
+      "question": "Quels sont les différents plans tarifaires disponibles ?",
+      "answer": "Nous proposons quatre formules tarifaires : Starter Shuttle (100 $/lancement), Pro Rocket (3 000 $/lancement), Team Explorer (15 000 $/lancement) et Enterprise Shuttle (contactez-nous pour connaître les tarifs). Chaque formule est dotée de son propre ensemble de fonctionnalités pour répondre à différents besoins.",
+      "createdAt": "2024-09-10T16:29:36.930Z",
+      "updatedAt": "2024-09-10T16:29:36.930Z",
+      "publishedAt": "2024-09-10T16:29:36.925Z",
+      "locale": "fr"
+     },
+     {
+      "id": 11,
+      "documentId": "fiakgut1yf97lr2utkicjwka",
+      "question": "Existe-t-il un moyen de suivre les performances de mon contenu lancé ?",
+      "answer": "Oui, tous nos forfaits incluent des fonctionnalités d'analyse qui vous permettent de suivre les performances de votre contenu lancé. Les forfaits de niveau supérieur offrent des options d'analyse et de création de rapports plus avancées.",
+      "createdAt": "2024-09-10T16:30:41.606Z",
+      "updatedAt": "2024-09-10T16:30:41.606Z",
+      "publishedAt": "2024-09-10T16:30:41.592Z",
+      "locale": "fr"
+     },
+     {
+      "id": 13,
+      "documentId": "hvudc0q3ykes3dklhth5amr6",
+      "question": "Que se passe-t-il si je dépasse la limite d’éléments de contenu de mon forfait ?",
+      "answer": "Si vous dépassez la limite d'éléments de contenu de votre forfait, vous devrez passer à un forfait supérieur ou acheter des lancements supplémentaires pour accueillir votre contenu.",
+      "createdAt": "2024-09-10T16:31:38.687Z",
+      "updatedAt": "2024-09-10T16:31:38.687Z",
+      "publishedAt": "2024-09-10T16:31:38.680Z",
+      "locale": "fr"
+     },
+     {
+      "id": 8,
+      "documentId": "n91o8tzvokmu3zfpqxfahec4",
+      "question": "Puis-je intégrer LaunchPad avec d’autres outils et plateformes ?",
+      "answer": "Oui, LaunchPad prend en charge l'intégration avec divers outils et plateformes tiers. Notre kit d'intégration d'entreprise offre des options d'intégration personnalisables pour les besoins complexes.",
+      "createdAt": "2024-09-10T16:26:14.423Z",
+      "updatedAt": "2024-09-10T16:26:14.423Z",
+      "publishedAt": "2024-09-10T16:26:14.415Z",
+      "locale": "fr"
+     },
+     {
+      "id": 14,
+      "documentId": "usv3te47a9xpr2w18no95ttj",
+      "question": "Quelles options d’assistance sont disponibles si je rencontre des problèmes ?",
+      "answer": "Nous proposons une assistance prioritaire pour les forfaits Pro Rocket, Team Explorer et Enterprise Shuttle. Pour les autres forfaits, une assistance standard est disponible via notre centre d'aide et par e-mail.",
+      "createdAt": "2024-09-10T16:32:03.076Z",
+      "updatedAt": "2024-09-10T16:32:03.076Z",
+      "publishedAt": "2024-09-10T16:32:03.071Z",
+      "locale": "fr"
+     }
+    ],
+    "__component": "dynamic-zone.faq"
+   },
+   {
+    "id": 10,
+    "heading": "Prêt à lancer votre contenu ?",
+    "sub_heading": "Rejoignez LaunchPad et commencez à diffuser votre contenu avec la vitesse et la fiabilité d'une navette spatiale.",
+    "CTAs": [
+     {
+      "id": 23,
+      "text": "Réservez une démo",
+      "URL": "/contact",
+      "target": "_blank",
+      "variant": "simple"
+     },
+     {
+      "id": 24,
+      "text": "Inscription",
+      "URL": "/sign-up",
+      "target": null,
+      "variant": "primary"
+     }
+    ],
+    "__component": "dynamic-zone.cta"
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "documentId": "jj3fjkefr39096p7whli2o1x",
+  "slug": "homepage",
+  "createdAt": "2024-09-10T16:43:27.821Z",
+  "updatedAt": "2025-04-14T05:19:04.909Z",
+  "publishedAt": "2025-04-14T05:19:04.925Z",
+  "locale": "fr",
+  "localizations": [
+   {
+    "id": 16,
+    "documentId": "jj3fjkefr39096p7whli2o1x",
+    "slug": "homepage",
+    "createdAt": "2024-08-07T08:43:05.010Z",
+    "updatedAt": "2026-02-17T19:20:02.721Z",
+    "publishedAt": "2026-02-17T19:20:02.742Z",
+    "locale": "en"
+   }
+  ],
+  "seo": {
+   "id": 21,
+   "metaTitle": "LaunchPad – Diffusez votre contenu en orbite",
+   "metaDescription": "LaunchPad est la solution idéale pour diffuser du contenu à une vitesse fulgurante.",
+   "keywords": null,
+   "metaRobots": null,
+   "structuredData": null,
+   "metaViewport": null,
+   "canonicalURL": null,
+   "metaImage": {
+    "id": 38,
+    "documentId": "vaipw3ju1syr4fjte2vstyry",
+    "name": "LaunchPad.jpg",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1920,
+    "height": 967,
+    "hash": "Launch_Pad_2ce50f287f",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": 38.91,
+    "url": "/uploads/Launch_Pad_2ce50f287f.jpg",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-09-16T12:27:09.937Z",
+    "updatedAt": "2025-04-07T15:22:12.978Z",
+    "publishedAt": "2024-09-16T12:27:09.938Z"
+   }
+  },
+  "dynamic_zone": [
+   {
+    "id": 3,
+    "heading": "Lancez votre contenu en orbite",
+    "sub_heading": "Diffusez votre contenu Web à une vitesse fulgurante avec LaunchPad.",
+    "CTAs": [
+     {
+      "id": 25,
+      "text": "Décoller",
+      "URL": "/sign-up",
+      "target": null,
+      "variant": null
+     },
+     {
+      "id": 26,
+      "text": "En apprendre plus",
+      "URL": "#features",
+      "target": null,
+      "variant": "simple"
+     }
+    ],
+    "__component": "dynamic-zone.hero"
+   },
+   {
+    "id": 3,
+    "heading": "Des fonctionnalités pour propulser votre contenu",
+    "sub_heading": "LaunchPad propose une variété de fonctionnalités pour vous aider à diffuser du contenu à vos utilisateurs de manière rapide et efficace.",
+    "globe_card": {
+     "id": 3,
+     "title": "Livraison rapide",
+     "description": "Diffusion de contenu ultra-rapide avec LaunchPad.",
+     "span": "two"
+    },
+    "ray_card": {
+     "id": 3,
+     "title": "Charges utiles évolutives",
+     "description": "Tailles de charge utile flexibles pour s'adapter à n'importe quel volume de contenu.",
+     "span": "one",
+     "before_ray_items": {
+      "id": 5,
+      "item_1": "2,052 Satellites",
+      "item_2": "8,561,035 Starlinks",
+      "item_3": "7,581 Fusées"
+     },
+     "after_ray_items": {
+      "id": 6,
+      "item_1": "2,052 Satellites",
+      "item_2": "8,561,035 Starlinks",
+      "item_3": "7,581 Fusées"
+     }
+    },
+    "graph_card": {
+     "id": 3,
+     "title": "Tableau de bord de contrôle de mission",
+     "description": "Surveillez et gérez vos lancements de contenu.",
+     "highlighted_text": "+8,008 lancés",
+     "span": "one",
+     "top_items": [
+      {
+       "id": 5,
+       "number": "6,092",
+       "text": "Dernier mois"
+      },
+      {
+       "id": 6,
+       "number": "72K",
+       "text": "Modules livrés"
+      }
+     ]
+    },
+    "social_media_card": {
+     "id": 3,
+     "Title": "Intégration interstellaire",
+     "Description": "Intégration transparente avec les outils et services populaires.",
+     "span": "two",
+     "logos": [
+      {
+       "id": 6,
+       "documentId": "q3f481268vjlbmr4boamm165",
+       "company": "Slack",
+       "createdAt": "2024-08-07T09:08:59.669Z",
+       "updatedAt": "2024-08-07T09:09:00.340Z",
+       "publishedAt": "2024-08-07T09:09:00.347Z",
+       "image": {
+        "id": 3,
+        "documentId": "yqbeeaxs3pmmc2hib1vkf84o",
+        "name": "slack.svg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 48,
+        "height": 48,
+        "hash": "slack_7cf9f40887",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 1.21,
+        "url": "/uploads/slack_7cf9f40887.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T09:07:50.112Z",
+        "updatedAt": "2025-04-07T15:22:11.021Z",
+        "publishedAt": "2024-08-07T09:07:50.112Z"
+       }
+      },
+      {
+       "id": 4,
+       "documentId": "th4j1t8fcr8f0aur0v2ncvh7",
+       "company": "TikTok",
+       "createdAt": "2024-08-07T09:08:38.158Z",
+       "updatedAt": "2024-08-07T09:08:38.911Z",
+       "publishedAt": "2024-08-07T09:08:38.916Z",
+       "image": {
+        "id": 5,
+        "documentId": "m0c9tzx4zhc0narrbrag7ymv",
+        "name": "tiktok.svg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 48,
+        "height": 48,
+        "hash": "tiktok_da060f5c94",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 2.24,
+        "url": "/uploads/tiktok_da060f5c94.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T09:07:50.165Z",
+        "updatedAt": "2025-04-07T15:22:11.025Z",
+        "publishedAt": "2024-08-07T09:07:50.166Z"
+       }
+      },
+      {
+       "id": 1,
+       "documentId": "kh24n4eag4oklb676rgcb28d",
+       "company": "Facebook",
+       "createdAt": "2024-08-07T09:07:57.658Z",
+       "updatedAt": "2024-08-07T09:07:58.664Z",
+       "publishedAt": "2024-08-07T09:07:58.671Z",
+       "image": {
+        "id": 1,
+        "documentId": "frmcr02185wpujgx7macf6gy",
+        "name": "facebook.svg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 48,
+        "height": 48,
+        "hash": "facebook_a2f158a34a",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 0.37,
+        "url": "/uploads/facebook_a2f158a34a.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T09:07:50.101Z",
+        "updatedAt": "2025-04-07T15:22:11.018Z",
+        "publishedAt": "2024-08-07T09:07:50.102Z"
+       }
+      },
+      {
+       "id": 7,
+       "documentId": "zeczuuehd7pywf205l18xy7o",
+       "company": "LinkedIn",
+       "createdAt": "2024-08-07T09:09:09.970Z",
+       "updatedAt": "2024-08-07T09:09:10.590Z",
+       "publishedAt": "2024-08-07T09:09:10.596Z",
+       "image": {
+        "id": 5,
+        "documentId": "m0c9tzx4zhc0narrbrag7ymv",
+        "name": "tiktok.svg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 48,
+        "height": 48,
+        "hash": "tiktok_da060f5c94",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 2.24,
+        "url": "/uploads/tiktok_da060f5c94.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T09:07:50.165Z",
+        "updatedAt": "2025-04-07T15:22:11.025Z",
+        "publishedAt": "2024-08-07T09:07:50.166Z"
+       }
+      },
+      {
+       "id": 3,
+       "documentId": "ftgcxdmb16c5sb653caqm2bs",
+       "company": "X",
+       "createdAt": "2024-08-07T09:08:27.058Z",
+       "updatedAt": "2024-08-07T09:08:27.795Z",
+       "publishedAt": "2024-08-07T09:08:27.806Z",
+       "image": {
+        "id": 7,
+        "documentId": "obzp9yqm65j2nrr50wigpocg",
+        "name": "youtube.svg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 48,
+        "height": 48,
+        "hash": "youtube_42df1b73a9",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 0.45,
+        "url": "/uploads/youtube_42df1b73a9.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T09:07:50.265Z",
+        "updatedAt": "2025-04-07T15:22:11.028Z",
+        "publishedAt": "2024-08-07T09:07:50.265Z"
+       }
+      },
+      {
+       "id": 2,
+       "documentId": "ypvin20yujwwok0j0vddsi3p",
+       "company": "YouTube",
+       "createdAt": "2024-08-07T09:08:16.712Z",
+       "updatedAt": "2024-08-07T09:08:17.474Z",
+       "publishedAt": "2024-08-07T09:08:17.478Z",
+       "image": {
+        "id": 7,
+        "documentId": "obzp9yqm65j2nrr50wigpocg",
+        "name": "youtube.svg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 48,
+        "height": 48,
+        "hash": "youtube_42df1b73a9",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 0.45,
+        "url": "/uploads/youtube_42df1b73a9.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T09:07:50.265Z",
+        "updatedAt": "2025-04-07T15:22:11.028Z",
+        "publishedAt": "2024-08-07T09:07:50.265Z"
+       }
+      },
+      {
+       "id": 5,
+       "documentId": "ob2j8ro4un2b1vl2x0dhw9ag",
+       "company": "instagram",
+       "createdAt": "2024-08-07T09:08:49.989Z",
+       "updatedAt": "2024-08-07T09:08:50.771Z",
+       "publishedAt": "2024-08-07T09:08:50.775Z",
+       "image": {
+        "id": 6,
+        "documentId": "vz4iiwakv4gs6bur362usm1r",
+        "name": "twitterx.svg",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 48,
+        "height": 48,
+        "hash": "twitterx_83bf8af0d3",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 0.59,
+        "url": "/uploads/twitterx_83bf8af0d3.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T09:07:50.175Z",
+        "updatedAt": "2025-04-07T15:22:11.027Z",
+        "publishedAt": "2024-08-07T09:07:50.175Z"
+       }
+      }
+     ]
+    },
+    "__component": "dynamic-zone.features"
+   },
+   {
+    "id": 3,
+    "heading": "Comment fonctionne LaunchPad",
+    "sub_heading": "Découvrez le système innovant de LaunchPad : révolutionner la diffusion de contenu pour un accès utilisateur mondial à haut débit.",
+    "steps": [
+     {
+      "id": 9,
+      "title": "Planifiez votre mission",
+      "description": "Choisissez votre plan de charge utile et planifiez votre lancement."
+     },
+     {
+      "id": 10,
+      "title": "Préparez votre charge utile",
+      "description": "Organisez et préparez votre contenu."
+     },
+     {
+      "id": 11,
+      "title": "Lancez votre contenu",
+      "description": "Envoyez votre contenu en orbite en un clic."
+     },
+     {
+      "id": 12,
+      "title": "Surveiller",
+      "description": "Suivez le parcours de votre contenu et assurez-vous d'une livraison réussie."
+     }
+    ],
+    "__component": "dynamic-zone.how-it-works"
+   },
+   {
+    "id": 7,
+    "heading": "Approuvé par les plus grandes marques",
+    "sub_heading": "LaunchPad bénéficie de la confiance des organisations spatiales Fortune 500.",
+    "logos": [
+     {
+      "id": 9,
+      "documentId": "qjjiemvopc44oik678axubro",
+      "company": "Rocket Story",
+      "createdAt": "2024-09-10T17:57:25.077Z",
+      "updatedAt": "2024-09-10T17:57:25.077Z",
+      "publishedAt": "2024-09-10T17:57:25.069Z",
+      "image": {
+       "id": 4,
+       "documentId": "k7xtwwqio439lkrvsjzwfe5j",
+       "name": "instagram.svg",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 48,
+       "height": 48,
+       "hash": "instagram_fa068d4893",
+       "ext": ".svg",
+       "mime": "image/svg+xml",
+       "size": 16.34,
+       "url": "/uploads/instagram_fa068d4893.svg",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-08-07T09:07:50.116Z",
+       "updatedAt": "2025-04-07T15:22:11.024Z",
+       "publishedAt": "2024-08-07T09:07:50.116Z"
+      }
+     },
+     {
+      "id": 13,
+      "documentId": "cnbbzmsa8htv10izyrqb4ijc",
+      "company": "StackHole",
+      "createdAt": "2024-09-10T18:29:02.731Z",
+      "updatedAt": "2024-09-10T18:29:02.731Z",
+      "publishedAt": "2024-09-10T18:29:02.728Z",
+      "image": {
+       "id": 2,
+       "documentId": "of3u5uin4ab1i4b06ykv2iio",
+       "name": "linkedin.svg",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 48,
+       "height": 48,
+       "hash": "linkedin_c7173b3a02",
+       "ext": ".svg",
+       "mime": "image/svg+xml",
+       "size": 0.6,
+       "url": "/uploads/linkedin_c7173b3a02.svg",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-08-07T09:07:50.109Z",
+       "updatedAt": "2025-04-07T15:22:11.020Z",
+       "publishedAt": "2024-08-07T09:07:50.109Z"
+      }
+     },
+     {
+      "id": 16,
+      "documentId": "tbvgmv625fm0m8imm6jak7l5",
+      "company": "CosmoTrends",
+      "createdAt": "2024-09-10T18:37:33.546Z",
+      "updatedAt": "2024-09-10T18:37:33.546Z",
+      "publishedAt": "2024-09-10T18:37:33.543Z",
+      "image": {
+       "id": 33,
+       "documentId": "fiawlzjlnds9juhqz5jy96qf",
+       "name": "8fe214ce0671c82b2dffba3aa6968f38.png",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 346,
+       "height": 99,
+       "hash": "8fe214ce0671c82b2dffba3aa6968f38_afa1e9fd29",
+       "ext": ".png",
+       "mime": "image/png",
+       "size": 3.93,
+       "url": "/uploads/8fe214ce0671c82b2dffba3aa6968f38_afa1e9fd29.png",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-09-10T18:37:11.075Z",
+       "updatedAt": "2025-04-07T15:22:12.271Z",
+       "publishedAt": "2024-09-10T18:37:11.076Z"
+      }
+     },
+     {
+      "id": 15,
+      "documentId": "buatyrpykuoxvnitn1ydkhjk",
+      "company": "StarKeting",
+      "createdAt": "2024-09-10T18:37:23.289Z",
+      "updatedAt": "2024-09-10T18:37:23.289Z",
+      "publishedAt": "2024-09-10T18:37:23.286Z",
+      "image": {
+       "id": 34,
+       "documentId": "o9j0pp6sc54cu4yu666a4h3g",
+       "name": "1c29a4618a32311bcb30f8766f125410.png",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 539,
+       "height": 68,
+       "hash": "1c29a4618a32311bcb30f8766f125410_3db99ce60b",
+       "ext": ".png",
+       "mime": "image/png",
+       "size": 10.37,
+       "url": "/uploads/1c29a4618a32311bcb30f8766f125410_3db99ce60b.png",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-09-10T18:37:11.149Z",
+       "updatedAt": "2025-04-07T15:22:12.375Z",
+       "publishedAt": "2024-09-10T18:37:11.150Z"
+      }
+     },
+     {
+      "id": 10,
+      "documentId": "cn583xrprefc0z2r75a4vvqn",
+      "company": "AstroContent",
+      "createdAt": "2024-09-10T17:57:36.995Z",
+      "updatedAt": "2024-09-10T17:57:36.995Z",
+      "publishedAt": "2024-09-10T17:57:36.991Z",
+      "image": {
+       "id": 29,
+       "documentId": "z056knf71rcfkiq8i2e68iev",
+       "name": "fe031ea8fe069eeaffc144d5f7323fe6.png",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 569,
+       "height": 65,
+       "hash": "fe031ea8fe069eeaffc144d5f7323fe6_3fd70d3be4",
+       "ext": ".png",
+       "mime": "image/png",
+       "size": 5.27,
+       "url": "/uploads/fe031ea8fe069eeaffc144d5f7323fe6_3fd70d3be4.png",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-09-10T17:56:37.275Z",
+       "updatedAt": "2025-04-07T15:22:11.991Z",
+       "publishedAt": "2024-09-10T17:56:37.276Z"
+      }
+     },
+     {
+      "id": 14,
+      "documentId": "ld0nudx8yxiym0dulq6k6o1o",
+      "company": "PlanetWorker",
+      "createdAt": "2024-09-10T18:29:13.786Z",
+      "updatedAt": "2024-09-10T18:29:13.786Z",
+      "publishedAt": "2024-09-10T18:29:13.782Z",
+      "image": {
+       "id": 31,
+       "documentId": "cye1jiocz2zu3doyo0fimaim",
+       "name": "6a212f698ee7a5b7fcad6703d90f4cc0.png",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 697,
+       "height": 84,
+       "hash": "6a212f698ee7a5b7fcad6703d90f4cc0_224039d0e6",
+       "ext": ".png",
+       "mime": "image/png",
+       "size": 3.44,
+       "url": "/uploads/6a212f698ee7a5b7fcad6703d90f4cc0_224039d0e6.png",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-09-10T18:28:39.625Z",
+       "updatedAt": "2025-04-07T15:22:12.132Z",
+       "publishedAt": "2024-09-10T18:28:39.625Z"
+      }
+     },
+     {
+      "id": 11,
+      "documentId": "t8zpyodcu9odeecuznajtz2e",
+      "company": "LunarStories",
+      "createdAt": "2024-09-10T17:57:48.109Z",
+      "updatedAt": "2024-09-10T17:57:48.109Z",
+      "publishedAt": "2024-09-10T17:57:48.105Z",
+      "image": {
+       "id": 3,
+       "documentId": "yqbeeaxs3pmmc2hib1vkf84o",
+       "name": "slack.svg",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 48,
+       "height": 48,
+       "hash": "slack_7cf9f40887",
+       "ext": ".svg",
+       "mime": "image/svg+xml",
+       "size": 1.21,
+       "url": "/uploads/slack_7cf9f40887.svg",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-08-07T09:07:50.112Z",
+       "updatedAt": "2025-04-07T15:22:11.021Z",
+       "publishedAt": "2024-08-07T09:07:50.112Z"
+      }
+     },
+     {
+      "id": 12,
+      "documentId": "ye3mxvz85n44tevcmqslyo3j",
+      "company": "SpaceLetter",
+      "createdAt": "2024-09-10T18:28:53.621Z",
+      "updatedAt": "2024-09-10T18:28:53.621Z",
+      "publishedAt": "2024-09-10T18:28:53.617Z",
+      "image": {
+       "id": 30,
+       "documentId": "w4ev86xuya5h97g1f78r82dn",
+       "name": "7ee6c51f86a8779f1ac3fb687b305e50.png",
+       "alternativeText": null,
+       "caption": null,
+       "focalPoint": null,
+       "width": 394,
+       "height": 72,
+       "hash": "7ee6c51f86a8779f1ac3fb687b305e50_a0b0a22418",
+       "ext": ".png",
+       "mime": "image/png",
+       "size": 3.24,
+       "url": "/uploads/7ee6c51f86a8779f1ac3fb687b305e50_a0b0a22418.png",
+       "previewUrl": null,
+       "provider": "local",
+       "provider_metadata": null,
+       "createdAt": "2024-09-10T18:28:39.564Z",
+       "updatedAt": "2025-04-07T15:22:12.049Z",
+       "publishedAt": "2024-09-10T18:28:39.565Z"
+      }
+     }
+    ],
+    "__component": "dynamic-zone.brands"
+   },
+   {
+    "id": 7,
+    "heading": "Tarifs",
+    "sub_heading": "Choisissez votre charge utile",
+    "plans": [
+     {
+      "id": 11,
+      "documentId": "sltcgbanxa3rmlgj6zob1ex9",
+      "name": "Starter Shuttle",
+      "price": 100,
+      "sub_text": "launch",
+      "featured": false,
+      "createdAt": "2024-08-07T10:10:39.444Z",
+      "updatedAt": "2026-02-17T22:48:55.881Z",
+      "publishedAt": "2026-02-17T22:48:55.897Z",
+      "locale": "en",
+      "perks": [
+       {
+        "id": 70,
+        "text": "Launch up to 1,000 content items"
+       },
+       {
+        "id": 71,
+        "text": "Basic Mission Control Dashboard"
+       },
+       {
+        "id": 72,
+        "text": "Standard Delivery"
+       },
+       {
+        "id": 73,
+        "text": "Basic analytics"
+       }
+      ],
+      "additional_perks": [],
+      "CTA": {
+       "id": 43,
+       "text": "Get Started",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      },
+      "product": {
+       "id": 14,
+       "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+       "name": "Mission Control Plus",
+       "price": 3000,
+       "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+       "slug": "mission-control-plus",
+       "featured": false,
+       "createdAt": "2024-08-07T14:37:26.800Z",
+       "updatedAt": "2026-02-17T23:05:59.806Z",
+       "publishedAt": "2026-02-17T23:05:59.816Z",
+       "locale": "en"
+      },
+      "localizations": [
+       {
+        "id": 14,
+        "documentId": "sltcgbanxa3rmlgj6zob1ex9",
+        "name": "Starter Shuttle",
+        "price": 85,
+        "sub_text": "lancement",
+        "featured": false,
+        "createdAt": "2026-02-17T22:48:45.194Z",
+        "updatedAt": "2026-02-17T23:35:33.838Z",
+        "publishedAt": "2026-02-17T23:35:33.846Z",
+        "locale": "fr",
+        "perks": [
+         {
+          "id": 91,
+          "text": "Lancez jusqu’à 1 000 éléments de contenu"
+         },
+         {
+          "id": 92,
+          "text": "Tableau de bord de contrôle basique"
+         },
+         {
+          "id": 93,
+          "text": "Livraison standard"
+         },
+         {
+          "id": 94,
+          "text": "Analyses basiques"
+         }
+        ],
+        "additional_perks": [],
+        "CTA": {
+         "id": 46,
+         "text": "Commencer",
+         "URL": null,
+         "target": null,
+         "variant": "primary"
+        }
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "documentId": "ysf6c3nbf9n2ik07vr572kve",
+      "name": "Pro Rocket",
+      "price": 3000,
+      "sub_text": "launch",
+      "featured": null,
+      "createdAt": "2024-08-07T10:11:28.756Z",
+      "updatedAt": "2024-09-04T11:16:58.599Z",
+      "publishedAt": "2024-09-04T11:25:46.857Z",
+      "locale": "en",
+      "perks": [
+       {
+        "id": 28,
+        "text": "Launch up to 100,000 content items"
+       },
+       {
+        "id": 29,
+        "text": "Advanced Mission Control Dashboard"
+       },
+       {
+        "id": 30,
+        "text": "High Speed Delivery"
+       },
+       {
+        "id": 31,
+        "text": "Advanced analytics"
+       },
+       {
+        "id": 32,
+        "text": "Priority Support"
+       }
+      ],
+      "additional_perks": [
+       {
+        "id": 33,
+        "text": "Everything included from Starter Shuttle"
+       }
+      ],
+      "CTA": {
+       "id": 37,
+       "text": "Get Started",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      },
+      "product": {
+       "id": 14,
+       "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+       "name": "Mission Control Plus",
+       "price": 3000,
+       "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+       "slug": "mission-control-plus",
+       "featured": false,
+       "createdAt": "2024-08-07T14:37:26.800Z",
+       "updatedAt": "2026-02-17T23:05:59.806Z",
+       "publishedAt": "2026-02-17T23:05:59.816Z",
+       "locale": "en"
+      },
+      "localizations": [
+       {
+        "id": 15,
+        "documentId": "ysf6c3nbf9n2ik07vr572kve",
+        "name": "Pro Rocket",
+        "price": 2500,
+        "sub_text": "lancement",
+        "featured": false,
+        "createdAt": "2026-02-17T22:46:39.527Z",
+        "updatedAt": "2026-02-17T23:35:47.026Z",
+        "publishedAt": "2026-02-17T23:35:47.037Z",
+        "locale": "fr",
+        "perks": [
+         {
+          "id": 95,
+          "text": "Lancez jusqu’à 100 000 éléments de contenu"
+         },
+         {
+          "id": 96,
+          "text": "Tableau de bord de contrôle avancé"
+         },
+         {
+          "id": 97,
+          "text": "Livraison à grande vitesse"
+         },
+         {
+          "id": 98,
+          "text": "Analyses avancées"
+         },
+         {
+          "id": 99,
+          "text": "Support prioritaire"
+         }
+        ],
+        "additional_perks": [
+         {
+          "id": 100,
+          "text": "Tout ce qui est inclus dans Starter Shuttle"
+         }
+        ],
+        "CTA": {
+         "id": 47,
+         "text": "Commencer",
+         "URL": null,
+         "target": null,
+         "variant": "primary"
+        }
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "documentId": "rdvhrmnjyh1phnxur3yw9wk2",
+      "name": "Team Explorer",
+      "price": 15000,
+      "sub_text": "launch",
+      "featured": true,
+      "createdAt": "2024-08-07T10:12:17.980Z",
+      "updatedAt": "2024-09-04T11:17:25.172Z",
+      "publishedAt": "2024-09-04T11:25:46.857Z",
+      "locale": "en",
+      "perks": [
+       {
+        "id": 34,
+        "text": "Launch up to 1,000,000 content items"
+       },
+       {
+        "id": 35,
+        "text": "Collaborative Mission Control Dashboard"
+       },
+       {
+        "id": 36,
+        "text": "High-Speed Delivery"
+       },
+       {
+        "id": 37,
+        "text": "Advanced analytics and reporting"
+       },
+       {
+        "id": 38,
+        "text": "Priority Support"
+       },
+       {
+        "id": 39,
+        "text": "Team collaboration tools"
+       }
+      ],
+      "additional_perks": [
+       {
+        "id": 40,
+        "text": "Everything included from Starter Shuttle"
+       },
+       {
+        "id": 41,
+        "text": "Everything included from Pro Rocket"
+       }
+      ],
+      "CTA": {
+       "id": 38,
+       "text": "Get Started",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      },
+      "product": {
+       "id": 8,
+       "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+       "name": "Payload Manager Pro",
+       "price": 2000,
+       "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+       "slug": "payload-manager-pro",
+       "featured": true,
+       "createdAt": "2024-08-07T14:33:49.508Z",
+       "updatedAt": "2024-09-12T10:40:52.601Z",
+       "publishedAt": "2024-09-12T10:40:52.666Z",
+       "locale": "en"
+      },
+      "localizations": [
+       {
+        "id": 16,
+        "documentId": "rdvhrmnjyh1phnxur3yw9wk2",
+        "name": "Team Explorer",
+        "price": 12600,
+        "sub_text": "Lancement",
+        "featured": true,
+        "createdAt": "2026-02-17T22:52:40.973Z",
+        "updatedAt": "2026-02-17T23:36:43.853Z",
+        "publishedAt": "2026-02-17T23:36:43.860Z",
+        "locale": "fr",
+        "perks": [
+         {
+          "id": 101,
+          "text": "Lancez jusqu’à 1 000 000 éléments de contenu"
+         },
+         {
+          "id": 102,
+          "text": "Tableau de bord de contrôle collaboratif"
+         },
+         {
+          "id": 103,
+          "text": "Livraison ultra-rapide"
+         },
+         {
+          "id": 104,
+          "text": "Analyses et rapports avancés"
+         },
+         {
+          "id": 105,
+          "text": "Support prioritaire"
+         },
+         {
+          "id": 106,
+          "text": "Outils de collaboration d’équipe"
+         }
+        ],
+        "additional_perks": [
+         {
+          "id": 107,
+          "text": "Tout ce qui est inclus dans Starter Shuttle"
+         },
+         {
+          "id": 108,
+          "text": "Tout ce qui est inclus dans Pro Rocket"
+         }
+        ],
+        "CTA": {
+         "id": 48,
+         "text": "Commencer",
+         "URL": null,
+         "target": null,
+         "variant": "primary"
+        }
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "documentId": "dnz7ts4ymiwdmvemtbebn4k6",
+      "name": "Enterprise Shuttle",
+      "price": null,
+      "sub_text": "",
+      "featured": null,
+      "createdAt": "2024-08-07T10:13:12.700Z",
+      "updatedAt": "2024-09-09T11:35:02.008Z",
+      "publishedAt": "2024-09-09T11:35:02.030Z",
+      "locale": "en",
+      "perks": [
+       {
+        "id": 42,
+        "text": "Unlimited content items per launch"
+       },
+       {
+        "id": 43,
+        "text": "Customizable Mission Control Dashboard"
+       },
+       {
+        "id": 44,
+        "text": "Ultra-Speed Delivery"
+       },
+       {
+        "id": 45,
+        "text": "Comprehensive analytics and reporting"
+       },
+       {
+        "id": 46,
+        "text": "Dedicated Support Team"
+       },
+       {
+        "id": 47,
+        "text": "Custom Integrations and Solutions"
+       }
+      ],
+      "additional_perks": [
+       {
+        "id": 48,
+        "text": "Everything included from Starter Shuttle"
+       },
+       {
+        "id": 49,
+        "text": "Everything included from Pro Rocket"
+       },
+       {
+        "id": 50,
+        "text": "Everything included from Team Explorer"
+       }
+      ],
+      "CTA": {
+       "id": 39,
+       "text": "Contact us",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      },
+      "product": {
+       "id": 8,
+       "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+       "name": "Payload Manager Pro",
+       "price": 2000,
+       "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+       "slug": "payload-manager-pro",
+       "featured": true,
+       "createdAt": "2024-08-07T14:33:49.508Z",
+       "updatedAt": "2024-09-12T10:40:52.601Z",
+       "publishedAt": "2024-09-12T10:40:52.666Z",
+       "locale": "en"
+      },
+      "localizations": [
+       {
+        "id": 13,
+        "documentId": "dnz7ts4ymiwdmvemtbebn4k6",
+        "name": "Enterprise Shuttle",
+        "price": null,
+        "sub_text": null,
+        "featured": false,
+        "createdAt": "2026-02-17T22:45:08.515Z",
+        "updatedAt": "2026-02-17T23:25:05.553Z",
+        "publishedAt": "2026-02-17T23:25:05.568Z",
+        "locale": "fr",
+        "perks": [
+         {
+          "id": 82,
+          "text": "Éléments de contenu illimités par lancement"
+         },
+         {
+          "id": 83,
+          "text": "Tableau de bord de contrôle personnalisable"
+         },
+         {
+          "id": 84,
+          "text": "Livraison ultra-rapide"
+         },
+         {
+          "id": 85,
+          "text": "Analyses et rapports complets"
+         },
+         {
+          "id": 86,
+          "text": "Équipe d’assistance dédiée"
+         },
+         {
+          "id": 87,
+          "text": "Intégrations et solutions personnalisées"
+         }
+        ],
+        "additional_perks": [
+         {
+          "id": 88,
+          "text": "Tout ce qui est inclus dans Starter Shuttle"
+         },
+         {
+          "id": 89,
+          "text": "Tout ce qui est inclus dans Pro Rocket"
+         },
+         {
+          "id": 90,
+          "text": "Tout ce qui est inclus dans Team Explorer"
+         }
+        ],
+        "CTA": {
+         "id": 45,
+         "text": "Contactez-nous",
+         "URL": null,
+         "target": null,
+         "variant": "primary"
+        }
+       }
+      ]
+     }
+    ],
+    "__component": "dynamic-zone.pricing"
+   },
+   {
+    "id": 3,
+    "heading": "Lancements récents",
+    "sub_heading": "Nos derniers lancements qui ont atteint l'univers.",
+    "launches": [
+     {
+      "id": 7,
+      "mission_number": "Mission #102",
+      "title": "Articles de blog livrés avec succès à WebOrbit",
+      "description": "Notre système de diffusion de contenu de pointe a lancé et distribué avec succès des articles de blog sur WebOrbit, garantissant un accès mondial transparent et des performances optimales."
+     },
+     {
+      "id": 8,
+      "mission_number": "Mission #101",
+      "title": "Lancement de mises à jour de produits pour SpaceTech",
+      "description": "Nous avons pu lancer des mises à jour de produits pour SpaceTech, en veillant à ce qu'elles soient livrées à leurs clients en temps opportun."
+     },
+     {
+      "id": 9,
+      "mission_number": "Mission #100",
+      "title": "Envoie de contenu marketing à AstroContent.",
+      "description": "AstroContent est de loin la plateforme de diffusion de contenu qui connaît la croissance la plus rapide, nous avons pu leur envoyer du contenu marketing."
+     }
+    ],
+    "__component": "dynamic-zone.launches"
+   },
+   {
+    "id": 11,
+    "heading": "Prêt à lancer votre contenu ?",
+    "sub_heading": "Rejoignez LaunchPad et commencez à diffuser votre contenu avec la vitesse et la fiabilité d'une navette spatiale.",
+    "CTAs": [
+     {
+      "id": 27,
+      "text": "Réserver une démo",
+      "URL": "/contact",
+      "target": null,
+      "variant": "muted"
+     },
+     {
+      "id": 28,
+      "text": "Inscription",
+      "URL": "/sign-up",
+      "target": null,
+      "variant": "primary"
+     }
+    ],
+    "__component": "dynamic-zone.cta"
+   }
+  ]
+ }
+]

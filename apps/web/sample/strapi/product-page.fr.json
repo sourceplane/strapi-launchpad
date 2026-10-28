@@ -1,0 +1,62 @@
+{
+ "id": 2,
+ "documentId": "ur5trwmxxdld011d4kcn82kc",
+ "heading": "Produits",
+ "sub_heading": "Achetez des produits pour dynamiser votre experience",
+ "featured_heading": "À la une",
+ "featured_sub_heading": "Choisissez parmi notre collection la plus populaire",
+ "popular_heading": "Populaire",
+ "popular_sub_heading": "Récemment devenu populaire",
+ "createdAt": "2024-09-10T13:38:21.527Z",
+ "updatedAt": "2026-02-19T21:53:37.834Z",
+ "publishedAt": "2026-02-19T21:53:37.823Z",
+ "locale": "fr",
+ "localizations": [
+  {
+   "id": 1,
+   "documentId": "ur5trwmxxdld011d4kcn82kc",
+   "heading": "Products",
+   "sub_heading": "Buy products to supercharge your journey",
+   "featured_heading": "Featured",
+   "featured_sub_heading": "Pick from our most popular collection",
+   "popular_heading": "Popular",
+   "popular_sub_heading": "Recently rose to popularity",
+   "createdAt": "2024-09-09T13:05:40.981Z",
+   "updatedAt": "2026-02-19T21:52:36.088Z",
+   "publishedAt": "2026-02-19T21:52:36.070Z",
+   "locale": "en"
+  }
+ ],
+ "dynamic_zone": [],
+ "seo": {
+  "id": 24,
+  "metaTitle": "Produits - LaunchPad Content Solutions",
+  "metaDescription": "Découvrez notre gamme de produits innovants conçus pour améliorer votre expérience de diffusion de contenu. De Payload Manager Pro à Rocket Boosters, LaunchPad a tout ce dont vous avez besoin pour lancer votre contenu avec précision.",
+  "keywords": null,
+  "metaRobots": null,
+  "structuredData": null,
+  "metaViewport": null,
+  "canonicalURL": null,
+  "metaImage": {
+   "id": 39,
+   "documentId": "g88f115y0kndyoyjg6t4akv8",
+   "name": "Products.jpg",
+   "alternativeText": null,
+   "caption": null,
+   "focalPoint": null,
+   "width": 1920,
+   "height": 966,
+   "hash": "Products_e1d1d2b0bf",
+   "ext": ".jpg",
+   "mime": "image/jpeg",
+   "size": 42.59,
+   "url": "/uploads/Products_e1d1d2b0bf.jpg",
+   "previewUrl": null,
+   "provider": "local",
+   "provider_metadata": null,
+   "createdAt": "2024-09-16T12:28:44.143Z",
+   "updatedAt": "2025-04-07T15:22:13.131Z",
+   "publishedAt": "2024-09-16T12:28:44.144Z"
+  }
+ }
+}
