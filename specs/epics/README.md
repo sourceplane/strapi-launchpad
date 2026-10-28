@@ -7,6 +7,6 @@ folder is the adoption; the merge creates the epic in the workspace.
 
 | Epic | Cluster | Status | What it is |
 |------|---------|--------|------------|
-| [`strapi-launchpad/`](./strapi-launchpad/) | **SL** | In progress (SL1: the site on Workers) | LaunchPad's Next.js front end (Vercel's LaunchPad: Next.js × Strapi Starter) on Cloudflare Workers, its Strapi reads cached in R2 + Durable Objects, the template's seed as sample content until a Strapi project is connected |
+| [`strapi-launchpad/`](./strapi-launchpad/) | **SL** | ✅ Shipped (`baseline-v1`); live bootstrap pending | LaunchPad's Next.js front end (Vercel's LaunchPad: Next.js × Strapi Starter) on Cloudflare Workers, its Strapi reads cached in R2 + Durable Objects, the template's seed as sample content until a Strapi project is connected |
 
 As-built ≠ intent: what shipped lives in each epic's `IMPLEMENTATION-STATUS.md`.

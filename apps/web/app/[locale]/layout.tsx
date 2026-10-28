@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import { ViewTransitions } from 'next-view-transitions';
-import { Inter } from 'next/font/google';
+import localFont from 'next/font/local';
 import { draftMode } from 'next/headers';
 import type { PropsWithChildren } from 'react';
 import React from 'react';
@@ -16,10 +16,15 @@ import { fetchSingleType, isStrapiConnected } from '@/lib/strapi';
 import { cn } from '@/lib/utils';
 import type { LocaleParamsProps } from '@/types/types';
 
-const inter = Inter({
-  subsets: ['latin'],
+// Inter, self-hosted: the variable font's latin subset (weights 100–900,
+// covering the template's 400–900), from @fontsource-variable/inter 5.2.8 —
+// OFL-1.1, ../fonts/Inter-OFL.txt. Upstream fetched it from Google Fonts at
+// build time, which fails on GitHub's runners (Google answers a font URL
+// without an extension, which next/font's loader cannot read).
+const inter = localFont({
+  src: '../fonts/inter-latin-wght-normal.woff2',
   display: 'swap',
-  weight: ['400', '500', '600', '700', '800', '900'],
+  weight: '100 900',
 });
 
 // Default Global SEO for pages without them
