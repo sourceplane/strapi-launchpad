@@ -1,0 +1,18 @@
+apiVersion: orun.io/v1
+kind: TaskContract
+metadata:
+  name: SL-2
+  title: "The site on Workers"
+spec:
+  goal: LaunchPad's Next.js front end runs as one Cloudflare Worker with Static Assets, its Strapi reads cached in R2 and the Durable Object tag cache, live on the template's own seed before a Strapi project is connected
+  affects:
+    - apps/web
+    - infra/terraform/cloudflare-r2
+    - tests/web
+    - pnpm-lock.yaml
+    - pnpm-workspace.yaml
+    - README.md
+  doneWhen:
+    - pnpm typecheck, lint, test and build are green with no Strapi project
+    - wrangler dev serves the sample site without a 500, and a connected one from cached reads with draft mode past them
+  gates: []
