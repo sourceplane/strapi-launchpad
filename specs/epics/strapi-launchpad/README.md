@@ -9,7 +9,7 @@ in Durable Objects.**
 
 | | |
 |---|---|
-| Status | In progress — SL1 on main: the site runs on Workers |
+| Status | ✅ Shipped (`baseline-v1`) — proven offline in Baseline CI; not yet live (risk SL-A) |
 | Upstream | [strapi/LaunchPad](https://github.com/strapi/LaunchPad) `next/` (MIT, declared), at `c54b5c2` (2026-10-16); the seed is its `strapi/data` export |
 | Reference | [cms-sanity](https://github.com/sourceplane/cms-sanity) for a CMS-backed site that goes live before the CMS is connected; [commerce](https://github.com/sourceplane/commerce) for the OpenNext, R2 and Durable Object cache shape |
 | Key | `SL` |

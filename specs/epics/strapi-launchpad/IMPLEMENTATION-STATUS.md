@@ -4,7 +4,7 @@
 |---|---|---|
 | SL0 — the spec | ✅ | SL-1 |
 | SL1 — the site on Workers | ✅ | SL-2 |
-| SL2 — a baseline | planned | SL-3 |
+| SL2 — a baseline | ✅ | SL-3, tagged `baseline-v1` |
 
 ## Departures from the upstream template
 
@@ -25,6 +25,7 @@ Everything not listed here is strapi/LaunchPad `next/` as it is at `c54b5c2`.
 | 11 | `app/api/health/route.ts` | The deploy's smoke and the record's probe |
 | 12 | ESLint: upstream's `next/core-web-vitals` in eslint-config-next 16's flat form, with `react-hooks/immutability`, `refs`, `set-state-in-effect` and `purity` off by name | Next 16 removed `next lint`; the React Compiler rules postdate the template's animation components |
 | 13 | `typecheck` (`next typegen && tsc`), `preview` and `wire:fixture` scripts | The workspace's checks and the wiring |
+| 13a | Inter self-hosted through `next/font/local` (`app/fonts/inter-latin-wght-normal.woff2`, the variable font's latin subset from @fontsource-variable/inter 5.2.8, OFL-1.1 — `app/fonts/Inter-OFL.txt`) instead of `next/font/google` | On GitHub's runners Google Fonts answers a font URL with no extension and next/font's loader throws; the build needs no network for fonts |
 | 14 | `LICENSE.md` (MIT, as upstream declares; it ships no LICENSE file) and `README.md` replaced by the app's own | The licence travels with the code |
 | 15 | Not carried: `strapi/`, `astro/`, `nuxt/`, `tanstack/`, `scripts/`, the root's yarn and prettier setup, `next/migration-log.md` | The Next front end only (design §1) |
 

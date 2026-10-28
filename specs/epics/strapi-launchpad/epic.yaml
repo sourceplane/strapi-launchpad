@@ -9,7 +9,7 @@ metadata:
 spec:
   title: "LaunchPad's Strapi-powered marketing site on Cloudflare Workers"
   summary: "LaunchPad's Next.js front end (Vercel's LaunchPad: Next.js × Strapi Starter) — a home page from Strapi's dynamic zones, pricing, FAQ, contact, a blog and products, in English and French, every Strapi read a \"use cache\" entry, with draft mode — runs as one Cloudflare Worker with Static Assets, its data cache in R2 and its tag cache and revalidation queue in Durable Objects, live on the template's own seed before a Strapi project is connected, and becomes an Orun baseline that takes a new site from nothing to live on stage and prod in one landing."
-  state: started
+  state: completed
   milestones:
     - name: "SL0 — the spec"
       exitCriteria:
