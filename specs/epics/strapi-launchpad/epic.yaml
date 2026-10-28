@@ -1,0 +1,29 @@
+# The epic's declaration. metadata.name equals the directory name; metadata.key
+# is the task-key prefix this epic reserves (SL → SL-1, SL-2, …). Owner, target
+# date and health are the platform's — never written here.
+apiVersion: orun.io/v1
+kind: Epic
+metadata:
+  name: strapi-launchpad
+  key: SL
+spec:
+  title: "LaunchPad's Strapi-powered marketing site on Cloudflare Workers"
+  summary: "LaunchPad's Next.js front end (Vercel's LaunchPad: Next.js × Strapi Starter) — a home page from Strapi's dynamic zones, pricing, FAQ, contact, a blog and products, in English and French, every Strapi read a \"use cache\" entry, with draft mode — runs as one Cloudflare Worker with Static Assets, its data cache in R2 and its tag cache and revalidation queue in Durable Objects, live on the template's own seed before a Strapi project is connected, and becomes an Orun baseline that takes a new site from nothing to live on stage and prod in one landing."
+  state: started
+  milestones:
+    - name: "SL0 — the spec"
+      exitCriteria:
+        - "the repository is born with its intent, CI, tooling and spec index, and this doc set and the task contracts are on main"
+      tasks: [SL-1]
+    - name: "SL1 — the site on Workers"
+      exitCriteria:
+        - "apps/web is upstream's next/ built by OpenNext into one Worker with Static Assets, the R2 incremental cache, the Durable Object tag cache and queue, Cache Components off and every \"use cache\" read kept"
+        - "with no Strapi project the site renders the template's seed as sample content, never a 500; connected, wrangler dev serves Strapi's content from cached reads and draft mode reads drafts past the cache"
+        - "typecheck, lint, test and build are green with no Strapi"
+      tasks: [SL-2]
+    - name: "SL2 — a baseline"
+      exitCriteria:
+        - "blueprint.yaml (the console card) and repo-blueprint.yaml (the build) take a new site from nothing to live on stage and prod in one landing, then record it"
+        - "a site built from it carries the product only, renamed throughout to its own name, repository, Worker and buckets"
+        - "Baseline CI is green: contract tests, the wiring path, generated component docs, the blueprint read by the pinned orun, the leak gate, the offline bootstrap and the end-to-end tier — the stage lane's steps in a staged tree, served as born, then connected to a stand-in Strapi and browsed"
+      tasks: [SL-3]
