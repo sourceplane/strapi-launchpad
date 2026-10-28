@@ -1,0 +1,2980 @@
+[
+ {
+  "id": 6,
+  "documentId": "ivpx8l7v0rxegp4qs74xatkx",
+  "name": "Content Rocket Booster",
+  "price": 1500,
+  "description": "Enhance the speed and performance of your content delivery with our Rocket Booster. Perfect for high-traffic websites needing rapid deployment.",
+  "slug": "content-rocket-booster",
+  "featured": true,
+  "createdAt": "2024-08-07T14:31:08.963Z",
+  "updatedAt": "2024-09-10T07:41:18.551Z",
+  "publishedAt": "2024-09-10T07:41:18.575Z",
+  "locale": "en",
+  "perks": [
+   {
+    "id": 124,
+    "text": "Increases delivery speed by 50%"
+   },
+   {
+    "id": 125,
+    "text": "Optimized for heavy content loads"
+   },
+   {
+    "id": 126,
+    "text": "Easy integration with existing payloads"
+   }
+  ],
+  "images": [
+   {
+    "id": 19,
+    "documentId": "dgvxwxtr5pxwozkguevv50e3",
+    "name": "rocket-1.png",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1024,
+    "height": 1024,
+    "hash": "rocket_1_f4ba43fca0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 575.75,
+    "url": "/uploads/rocket_1_f4ba43fca0.png",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-08-07T14:30:24.890Z",
+    "updatedAt": "2025-04-07T15:22:11.484Z",
+    "publishedAt": "2024-08-07T14:30:24.890Z"
+   },
+   {
+    "id": 17,
+    "documentId": "mrdyqmal0qn2bz20jv2hsv8y",
+    "name": "rocket-2.png",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1024,
+    "height": 1024,
+    "hash": "rocket_2_26370b67c0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 495.87,
+    "url": "/uploads/rocket_2_26370b67c0.png",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-08-07T14:30:24.285Z",
+    "updatedAt": "2025-04-07T15:22:11.278Z",
+    "publishedAt": "2024-08-07T14:30:24.286Z"
+   }
+  ],
+  "localizations": [
+   {
+    "id": 18,
+    "documentId": "ivpx8l7v0rxegp4qs74xatkx",
+    "name": "Content Rocket Booster",
+    "price": 1300,
+    "description": "Améliorez la vitesse et les performances de diffusion de votre contenu grâce à notre Rocket Booster. Idéal pour les sites à fort trafic nécessitant un déploiement rapide.",
+    "slug": "content-rocket-booster",
+    "featured": true,
+    "createdAt": "2026-02-17T22:58:05.332Z",
+    "updatedAt": "2026-02-19T22:11:59.171Z",
+    "publishedAt": "2026-02-19T22:11:59.183Z",
+    "locale": "fr"
+   }
+  ],
+  "plans": [],
+  "dynamic_zone": [
+   {
+    "id": 6,
+    "heading": "Related Products",
+    "sub_heading": "You might be interested by these products",
+    "products": [
+     {
+      "id": 7,
+      "documentId": "okwmgmnt070hwh9t4496sxb5",
+      "name": "Analytics Insight Pack",
+      "price": 750,
+      "description": "Gain deeper insights into your content performance with the Analytics Insight Pack. Provides comprehensive analytics and reporting features.",
+      "slug": "analytics-insight-pack",
+      "featured": true,
+      "createdAt": "2024-08-07T14:36:10.854Z",
+      "updatedAt": "2024-09-12T09:06:26.365Z",
+      "publishedAt": "2024-09-12T09:06:26.394Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 16,
+        "documentId": "t84m2suuxcig1dh9hxxab2t6",
+        "name": "dashboard.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "dashboard_106c0d6b4b",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 364.41,
+        "url": "/uploads/dashboard_106c0d6b4b.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.247Z",
+        "updatedAt": "2025-04-07T15:22:11.171Z",
+        "publishedAt": "2024-08-07T14:30:24.247Z"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+      "name": "Mission Control Plus",
+      "price": 3000,
+      "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+      "slug": "mission-control-plus",
+      "featured": false,
+      "createdAt": "2024-08-07T14:37:26.800Z",
+      "updatedAt": "2026-02-17T23:05:59.806Z",
+      "publishedAt": "2026-02-17T23:05:59.816Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 19,
+        "documentId": "dgvxwxtr5pxwozkguevv50e3",
+        "name": "rocket-1.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_1_f4ba43fca0",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 575.75,
+        "url": "/uploads/rocket_1_f4ba43fca0.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.890Z",
+        "updatedAt": "2025-04-07T15:22:11.484Z",
+        "publishedAt": "2024-08-07T14:30:24.890Z"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "documentId": "hptfn0nu6p5tgrbprrd83x45",
+      "name": "Enterprise Integration Kit",
+      "price": 8000,
+      "description": "Seamlessly integrate LaunchPad with your existing enterprise systems using the Enterprise Integration Kit. Designed for large organizations with complex needs.",
+      "slug": "enterprise-integration-kit",
+      "featured": false,
+      "createdAt": "2024-08-07T14:38:25.387Z",
+      "updatedAt": "2026-02-17T23:02:53.308Z",
+      "publishedAt": "2026-02-17T23:02:53.320Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 18,
+        "documentId": "herx65mzfrvsztiql417lqsf",
+        "name": "rocket-3.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_3_9a94bfe837",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 552.52,
+        "url": "/uploads/rocket_3_9a94bfe837.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.578Z",
+        "updatedAt": "2025-04-07T15:22:11.369Z",
+        "publishedAt": "2024-08-07T14:30:24.578Z"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+      "name": "Payload Manager Pro",
+      "price": 2000,
+      "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+      "slug": "payload-manager-pro",
+      "featured": true,
+      "createdAt": "2024-08-07T14:33:49.508Z",
+      "updatedAt": "2024-09-12T10:40:52.601Z",
+      "publishedAt": "2024-09-12T10:40:52.666Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 18,
+        "documentId": "herx65mzfrvsztiql417lqsf",
+        "name": "rocket-3.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_3_9a94bfe837",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 552.52,
+        "url": "/uploads/rocket_3_9a94bfe837.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.578Z",
+        "updatedAt": "2025-04-07T15:22:11.369Z",
+        "publishedAt": "2024-08-07T14:30:24.578Z"
+       },
+       {
+        "id": 20,
+        "documentId": "alawkc1z7vn4x4jl6bn3ezom",
+        "name": "rocket-4.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_4_55fae57ea4",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 558.98,
+        "url": "/uploads/rocket_4_55fae57ea4.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:25.318Z",
+        "updatedAt": "2025-04-07T15:22:11.619Z",
+        "publishedAt": "2024-08-07T14:30:25.319Z"
+       }
+      ]
+     }
+    ],
+    "__component": "dynamic-zone.related-products"
+   }
+  ],
+  "categories": [
+   {
+    "id": 2,
+    "documentId": "vbjx3uaqr5u28n1tlcnl5a2w",
+    "name": "booster",
+    "createdAt": "2024-08-07T14:32:01.984Z",
+    "updatedAt": "2024-08-07T14:32:03.643Z",
+    "publishedAt": "2024-08-07T14:32:03.646Z",
+    "locale": "en",
+    "product": {
+     "id": 6,
+     "documentId": "ivpx8l7v0rxegp4qs74xatkx",
+     "name": "Content Rocket Booster",
+     "price": 1500,
+     "description": "Enhance the speed and performance of your content delivery with our Rocket Booster. Perfect for high-traffic websites needing rapid deployment.",
+     "slug": "content-rocket-booster",
+     "featured": true,
+     "createdAt": "2024-08-07T14:31:08.963Z",
+     "updatedAt": "2024-09-10T07:41:18.551Z",
+     "publishedAt": "2024-09-10T07:41:18.575Z",
+     "locale": "en"
+    },
+    "articles": []
+   },
+   {
+    "id": 1,
+    "documentId": "qwsvenbtmt0l7qkzuyiw56uo",
+    "name": "rocket",
+    "createdAt": "2024-08-07T14:31:49.803Z",
+    "updatedAt": "2024-08-07T14:31:54.599Z",
+    "publishedAt": "2024-08-07T14:31:54.604Z",
+    "locale": "en",
+    "product": {
+     "id": 6,
+     "documentId": "ivpx8l7v0rxegp4qs74xatkx",
+     "name": "Content Rocket Booster",
+     "price": 1500,
+     "description": "Enhance the speed and performance of your content delivery with our Rocket Booster. Perfect for high-traffic websites needing rapid deployment.",
+     "slug": "content-rocket-booster",
+     "featured": true,
+     "createdAt": "2024-08-07T14:31:08.963Z",
+     "updatedAt": "2024-09-10T07:41:18.551Z",
+     "publishedAt": "2024-09-10T07:41:18.575Z",
+     "locale": "en"
+    },
+    "articles": []
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "documentId": "okwmgmnt070hwh9t4496sxb5",
+  "name": "Analytics Insight Pack",
+  "price": 750,
+  "description": "Gain deeper insights into your content performance with the Analytics Insight Pack. Provides comprehensive analytics and reporting features.",
+  "slug": "analytics-insight-pack",
+  "featured": true,
+  "createdAt": "2024-08-07T14:36:10.854Z",
+  "updatedAt": "2024-09-12T09:06:26.365Z",
+  "publishedAt": "2024-09-12T09:06:26.394Z",
+  "locale": "en",
+  "perks": [
+   {
+    "id": 127,
+    "text": "Detailed performance reports"
+   },
+   {
+    "id": 128,
+    "text": "Customizable analytics dashboard"
+   },
+   {
+    "id": 129,
+    "text": "Integration with third-party analytics tools"
+   }
+  ],
+  "images": [
+   {
+    "id": 16,
+    "documentId": "t84m2suuxcig1dh9hxxab2t6",
+    "name": "dashboard.png",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1024,
+    "height": 1024,
+    "hash": "dashboard_106c0d6b4b",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 364.41,
+    "url": "/uploads/dashboard_106c0d6b4b.png",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-08-07T14:30:24.247Z",
+    "updatedAt": "2025-04-07T15:22:11.171Z",
+    "publishedAt": "2024-08-07T14:30:24.247Z"
+   }
+  ],
+  "localizations": [
+   {
+    "id": 17,
+    "documentId": "okwmgmnt070hwh9t4496sxb5",
+    "name": "Analytics Insight Pack",
+    "price": 640,
+    "description": "Obtenez des analyses plus approfondies des performances de votre contenu avec le Pack d’analyses approfondies. Inclut des fonctionnalités complètes d’analyses et de reporting.",
+    "slug": "analytics-insight-pack",
+    "featured": true,
+    "createdAt": "2026-02-17T22:57:07.393Z",
+    "updatedAt": "2026-02-19T22:11:46.837Z",
+    "publishedAt": "2026-02-19T22:11:46.851Z",
+    "locale": "fr"
+   }
+  ],
+  "plans": [],
+  "dynamic_zone": [
+   {
+    "id": 7,
+    "heading": "Related Products",
+    "sub_heading": "Recently rose to popularity",
+    "products": [
+     {
+      "id": 8,
+      "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+      "name": "Payload Manager Pro",
+      "price": 2000,
+      "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+      "slug": "payload-manager-pro",
+      "featured": true,
+      "createdAt": "2024-08-07T14:33:49.508Z",
+      "updatedAt": "2024-09-12T10:40:52.601Z",
+      "publishedAt": "2024-09-12T10:40:52.666Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 18,
+        "documentId": "herx65mzfrvsztiql417lqsf",
+        "name": "rocket-3.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_3_9a94bfe837",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 552.52,
+        "url": "/uploads/rocket_3_9a94bfe837.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.578Z",
+        "updatedAt": "2025-04-07T15:22:11.369Z",
+        "publishedAt": "2024-08-07T14:30:24.578Z"
+       },
+       {
+        "id": 20,
+        "documentId": "alawkc1z7vn4x4jl6bn3ezom",
+        "name": "rocket-4.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_4_55fae57ea4",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 558.98,
+        "url": "/uploads/rocket_4_55fae57ea4.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:25.318Z",
+        "updatedAt": "2025-04-07T15:22:11.619Z",
+        "publishedAt": "2024-08-07T14:30:25.319Z"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "documentId": "ivpx8l7v0rxegp4qs74xatkx",
+      "name": "Content Rocket Booster",
+      "price": 1500,
+      "description": "Enhance the speed and performance of your content delivery with our Rocket Booster. Perfect for high-traffic websites needing rapid deployment.",
+      "slug": "content-rocket-booster",
+      "featured": true,
+      "createdAt": "2024-08-07T14:31:08.963Z",
+      "updatedAt": "2024-09-10T07:41:18.551Z",
+      "publishedAt": "2024-09-10T07:41:18.575Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 19,
+        "documentId": "dgvxwxtr5pxwozkguevv50e3",
+        "name": "rocket-1.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_1_f4ba43fca0",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 575.75,
+        "url": "/uploads/rocket_1_f4ba43fca0.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.890Z",
+        "updatedAt": "2025-04-07T15:22:11.484Z",
+        "publishedAt": "2024-08-07T14:30:24.890Z"
+       },
+       {
+        "id": 17,
+        "documentId": "mrdyqmal0qn2bz20jv2hsv8y",
+        "name": "rocket-2.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_2_26370b67c0",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 495.87,
+        "url": "/uploads/rocket_2_26370b67c0.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.285Z",
+        "updatedAt": "2025-04-07T15:22:11.278Z",
+        "publishedAt": "2024-08-07T14:30:24.286Z"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+      "name": "Mission Control Plus",
+      "price": 3000,
+      "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+      "slug": "mission-control-plus",
+      "featured": false,
+      "createdAt": "2024-08-07T14:37:26.800Z",
+      "updatedAt": "2026-02-17T23:05:59.806Z",
+      "publishedAt": "2026-02-17T23:05:59.816Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 19,
+        "documentId": "dgvxwxtr5pxwozkguevv50e3",
+        "name": "rocket-1.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_1_f4ba43fca0",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 575.75,
+        "url": "/uploads/rocket_1_f4ba43fca0.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.890Z",
+        "updatedAt": "2025-04-07T15:22:11.484Z",
+        "publishedAt": "2024-08-07T14:30:24.890Z"
+       }
+      ]
+     }
+    ],
+    "__component": "dynamic-zone.related-products"
+   }
+  ],
+  "categories": [
+   {
+    "id": 4,
+    "documentId": "uz0mtwi6x41374llbsdpf5x9",
+    "name": "dashboard",
+    "createdAt": "2024-08-07T14:36:23.549Z",
+    "updatedAt": "2024-08-07T14:36:23.549Z",
+    "publishedAt": "2024-08-07T14:36:23.546Z",
+    "locale": "en",
+    "product": {
+     "id": 7,
+     "documentId": "okwmgmnt070hwh9t4496sxb5",
+     "name": "Analytics Insight Pack",
+     "price": 750,
+     "description": "Gain deeper insights into your content performance with the Analytics Insight Pack. Provides comprehensive analytics and reporting features.",
+     "slug": "analytics-insight-pack",
+     "featured": true,
+     "createdAt": "2024-08-07T14:36:10.854Z",
+     "updatedAt": "2024-09-12T09:06:26.365Z",
+     "publishedAt": "2024-09-12T09:06:26.394Z",
+     "locale": "en"
+    },
+    "articles": [
+     {
+      "id": 7,
+      "documentId": "styfyd8glh6nboxhl6ei9gsh",
+      "title": "Comment AstroContent a Propulsé son Marketing à de Nouveaux Sommets",
+      "description": "Dans cette étude de cas, nous explorons comment AstroContent a exploité LaunchPad pour révolutionner ses campagnes marketing. Découvrez les défis auxquels ils ont été confrontés, les solutions fournies par LaunchPad et les résultats impressionnants qui ont porté leur diffusion de contenu à un niveau supérieur.",
+      "slug": "etude-de-cas-comment-astro-content-a-propulse-son-marketing-a-de-nouveaux-sommets",
+      "content": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "AstroContent, une agence de marketing digital en pleine croissance, faisait face à un défi commun : comment augmenter la diffusion de son contenu sans compromettre la vitesse, la fiabilité ou l’expérience utilisateur. Avec une audience mondiale en expansion et une demande croissante pour un accès en temps réel à du contenu de haute qualité, ils avaient besoin d'une solution capable de suivre le rythme. C'est là qu'intervient LaunchPad, une plateforme révolutionnaire de diffusion de contenu qui a aidé AstroContent à transformer sa stratégie marketing. Voici comment."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Le Défi"
+         }
+        ],
+        "level": 3
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Les campagnes marketing d'AstroContent reposaient fortement sur la diffusion de contenu dynamique et riche en médias pour leurs clients et leur audience. Cependant, à mesure que leur base de clients s'élargissait, ils ont rencontré plusieurs défis clés :"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Des temps de diffusion lents",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ", en particulier pour les utilisateurs dans des régions éloignées"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Des difficultés à évoluer",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": " leur infrastructure de diffusion de contenu sans ajouter de complexité"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Des préoccupations liées à la sécurité",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ", compte tenu du volume de données et d’actifs marketing sensibles"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "AstroContent savait qu'il leur fallait une solution rapide, évolutive et sécurisée—sans nécessiter de refonte complète de leur infrastructure existante."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "La Solution : LaunchPad"
+         }
+        ],
+        "level": 3
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "AstroContent a choisi de collaborer avec LaunchPad, une plateforme de diffusion de contenu à la pointe de la technologie conçue pour relever ces défis. LaunchPad a offert :"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Une diffusion mondiale plus rapide",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ": L'infrastructure avancée de LaunchPad a permis à AstroContent de livrer ses campagnes à des audiences du monde entier avec une latence minimale, même dans les zones difficiles d’accès."
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Une évolutivité sans effort",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ": À mesure que les besoins d'AstroContent augmentaient, LaunchPad s’adaptait facilement pour gérer des volumes de contenu plus importants sans impacter les performances."
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Des fonctionnalités de sécurité robustes",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": " : Avec un chiffrement de bout en bout et une surveillance continue, AstroContent pouvait être tranquille en sachant que ses actifs marketing étaient protégés contre les menaces cybernétiques."
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Les Résultats"
+         }
+        ],
+        "level": 3
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Grâce à LaunchPad, AstroContent a immédiatement constaté des améliorations dans la performance de ses campagnes :"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Une livraison du contenu 50 % plus rapide",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ", entraînant un meilleur engagement des utilisateurs et une satisfaction accrue des clients"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Une portée mondiale",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ", leur permettant d'étendre leurs campagnes sur de nouveaux marchés"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Une sécurité renforcée",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ", avec zéro violation de données depuis la mise en place de LaunchPad"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "La stratégie marketing d'AstroContent a été transformée, leur permettant de se concentrer sur la créativité et la croissance sans se soucier de l’infrastructure. Leurs campagnes atteignent désormais un public plus large, plus rapidement et plus en toute sécurité que jamais."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Conclusion"
+         }
+        ],
+        "level": 2
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "En s'appuyant sur LaunchPad, AstroContent a pu surmonter ses défis de diffusion de contenu et propulser ses efforts marketing à de nouveaux sommets. Si vous cherchez à développer votre diffusion de contenu avec rapidité et sécurité, LaunchPad pourrait être le levier de transformation dont votre entreprise a besoin."
+         }
+        ]
+       }
+      ],
+      "createdAt": "2024-09-11T15:51:25.676Z",
+      "updatedAt": "2024-09-11T15:51:27.507Z",
+      "publishedAt": "2024-09-11T15:51:27.519Z",
+      "locale": "fr",
+      "dynamic_zone": [
+       {
+        "id": 7,
+        "heading": "D'autres article pouvant vous intéresser",
+        "sub_heading": null,
+        "__component": "dynamic-zone.related-articles"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": 5,
+    "documentId": "q7b27x3sjh78ax8j0kpd165s",
+    "name": "analytics",
+    "createdAt": "2024-08-07T14:36:31.542Z",
+    "updatedAt": "2024-08-07T14:36:31.542Z",
+    "publishedAt": "2024-08-07T14:36:31.539Z",
+    "locale": "en",
+    "product": {
+     "id": 7,
+     "documentId": "okwmgmnt070hwh9t4496sxb5",
+     "name": "Analytics Insight Pack",
+     "price": 750,
+     "description": "Gain deeper insights into your content performance with the Analytics Insight Pack. Provides comprehensive analytics and reporting features.",
+     "slug": "analytics-insight-pack",
+     "featured": true,
+     "createdAt": "2024-08-07T14:36:10.854Z",
+     "updatedAt": "2024-09-12T09:06:26.365Z",
+     "publishedAt": "2024-09-12T09:06:26.394Z",
+     "locale": "en"
+    },
+    "articles": [
+     {
+      "id": 9,
+      "documentId": "styfyd8glh6nboxhl6ei9gsh",
+      "title": "Case Study: How AstroContent Launched Their Marketing to New Heights",
+      "description": "In this case study, we explore how AstroContent leveraged OrbitExpress to revolutionize their marketing campaigns. Learn about the challenges they faced, the solutions provided by OrbitExpress, and the impressive results that took their content delivery to the next level.",
+      "slug": "case-study-how-astro-content-launched-their-marketing-to-new-heights",
+      "content": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "AstroContent, a fast-growing digital marketing agency, was facing a common challenge: how to scale their content delivery without compromising speed, reliability, or user experience. With an expanding global audience and increasing demand for real-time access to high-quality content, they needed a solution that could keep up. Enter LaunchPad, a game-changing content delivery platform that helped AstroContent revolutionize their marketing strategy. Here’s how they did it."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "The Challenge"
+         }
+        ],
+        "level": 3
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "AstroContent’s marketing campaigns relied heavily on delivering dynamic, media-rich content to their clients and their clients' audiences. However, as their customer base grew, they encountered several key challenges:"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Slow content delivery times",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ", especially to users in remote regions"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Difficulty scaling",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": " their content delivery infrastructure without added complexity"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Concerns over security",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ", given the volume of sensitive marketing data and assets"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "AstroContent knew they needed a solution that was fast, scalable, and secure—without breaking the bank or requiring a complete overhaul of their existing infrastructure."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "The Solution: LaunchPad"
+         }
+        ],
+        "level": 3
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "AstroContent chose to partner with LaunchPad, a state-of-the-art content delivery platform designed to handle exactly these kinds of challenges. LaunchPad offered:"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Faster global delivery",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ": LaunchPad’s advanced infrastructure ensured that AstroContent could deliver their campaigns to audiences worldwide with minimal latency, even in hard-to-reach areas."
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Effortless scalability",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ": As AstroContent’s needs grew, LaunchPad easily adapted to handle larger volumes of content without impacting performance."
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Robust security features",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ": With end-to-end encryption and continuous monitoring, AstroContent could rest easy knowing their marketing assets were safe from cyber threats."
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "The Results"
+         }
+        ],
+        "level": 3
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "With LaunchPad’s help, AstroContent saw immediate improvements in their campaign performance:"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "50% faster content delivery",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ", resulting in better user engagement and higher client satisfaction"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Global reach",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ", allowing them to expand their campaigns into new markets"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+         {
+          "type": "list-item",
+          "children": [
+           {
+            "type": "text",
+            "text": "Improved security",
+            "bold": true
+           },
+           {
+            "type": "text",
+            "text": ", with zero data breaches since implementing LaunchPad"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "AstroContent’s marketing strategy was transformed, allowing them to focus on creativity and growth rather than worrying about infrastructure. Their campaigns now reach a wider audience, faster and more securely than ever before."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Conclusion"
+         }
+        ],
+        "level": 2
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "By leveraging LaunchPad, AstroContent was able to overcome their content delivery challenges and take their marketing efforts to new heights. If you’re looking to scale your content delivery with speed and security, LaunchPad could be the game-changer your business needs."
+         }
+        ]
+       }
+      ],
+      "createdAt": "2024-08-07T17:09:02.648Z",
+      "updatedAt": "2024-09-12T08:56:17.195Z",
+      "publishedAt": "2024-09-12T08:56:17.228Z",
+      "locale": "en",
+      "dynamic_zone": [
+       {
+        "id": 9,
+        "heading": null,
+        "sub_heading": null,
+        "__component": "dynamic-zone.related-articles"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+  "name": "Payload Manager Pro",
+  "price": 2000,
+  "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+  "slug": "payload-manager-pro",
+  "featured": true,
+  "createdAt": "2024-08-07T14:33:49.508Z",
+  "updatedAt": "2024-09-12T10:40:52.601Z",
+  "publishedAt": "2024-09-12T10:40:52.666Z",
+  "locale": "en",
+  "perks": [
+   {
+    "id": 130,
+    "text": "Advanced content organization tools"
+   },
+   {
+    "id": 131,
+    "text": "Collaborative workspace"
+   },
+   {
+    "id": 132,
+    "text": "Real-time updates and tracking"
+   }
+  ],
+  "images": [
+   {
+    "id": 18,
+    "documentId": "herx65mzfrvsztiql417lqsf",
+    "name": "rocket-3.png",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1024,
+    "height": 1024,
+    "hash": "rocket_3_9a94bfe837",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 552.52,
+    "url": "/uploads/rocket_3_9a94bfe837.png",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-08-07T14:30:24.578Z",
+    "updatedAt": "2025-04-07T15:22:11.369Z",
+    "publishedAt": "2024-08-07T14:30:24.578Z"
+   },
+   {
+    "id": 20,
+    "documentId": "alawkc1z7vn4x4jl6bn3ezom",
+    "name": "rocket-4.png",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1024,
+    "height": 1024,
+    "hash": "rocket_4_55fae57ea4",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 558.98,
+    "url": "/uploads/rocket_4_55fae57ea4.png",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-08-07T14:30:25.318Z",
+    "updatedAt": "2025-04-07T15:22:11.619Z",
+    "publishedAt": "2024-08-07T14:30:25.319Z"
+   }
+  ],
+  "localizations": [
+   {
+    "id": 16,
+    "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+    "name": "Payload Manager Pro",
+    "price": 1700,
+    "description": "Simplifiez l’organisation et la gestion de votre contenu avec Payload Manager Pro. Idéal pour les équipes gérant de grands volumes de contenu.",
+    "slug": "payload-manager-pro",
+    "featured": true,
+    "createdAt": "2026-02-17T23:07:50.483Z",
+    "updatedAt": "2026-02-19T22:11:31.028Z",
+    "publishedAt": "2026-02-19T22:11:31.048Z",
+    "locale": "fr"
+   }
+  ],
+  "plans": [
+   {
+    "id": 7,
+    "documentId": "dnz7ts4ymiwdmvemtbebn4k6",
+    "name": "Enterprise Shuttle",
+    "price": null,
+    "sub_text": "",
+    "featured": null,
+    "createdAt": "2024-08-07T10:13:12.700Z",
+    "updatedAt": "2024-09-09T11:35:02.008Z",
+    "publishedAt": "2024-09-09T11:35:02.030Z",
+    "locale": "en",
+    "perks": [
+     {
+      "id": 42,
+      "text": "Unlimited content items per launch"
+     },
+     {
+      "id": 43,
+      "text": "Customizable Mission Control Dashboard"
+     },
+     {
+      "id": 44,
+      "text": "Ultra-Speed Delivery"
+     },
+     {
+      "id": 45,
+      "text": "Comprehensive analytics and reporting"
+     },
+     {
+      "id": 46,
+      "text": "Dedicated Support Team"
+     },
+     {
+      "id": 47,
+      "text": "Custom Integrations and Solutions"
+     }
+    ],
+    "CTA": {
+     "id": 39,
+     "text": "Contact us",
+     "URL": null,
+     "target": null,
+     "variant": "primary"
+    },
+    "product": {
+     "id": 8,
+     "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+     "name": "Payload Manager Pro",
+     "price": 2000,
+     "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+     "slug": "payload-manager-pro",
+     "featured": true,
+     "createdAt": "2024-08-07T14:33:49.508Z",
+     "updatedAt": "2024-09-12T10:40:52.601Z",
+     "publishedAt": "2024-09-12T10:40:52.666Z",
+     "locale": "en"
+    },
+    "localizations": [
+     {
+      "id": 13,
+      "documentId": "dnz7ts4ymiwdmvemtbebn4k6",
+      "name": "Enterprise Shuttle",
+      "price": null,
+      "sub_text": null,
+      "featured": false,
+      "createdAt": "2026-02-17T22:45:08.515Z",
+      "updatedAt": "2026-02-17T23:25:05.553Z",
+      "publishedAt": "2026-02-17T23:25:05.568Z",
+      "locale": "fr",
+      "perks": [
+       {
+        "id": 82,
+        "text": "Éléments de contenu illimités par lancement"
+       },
+       {
+        "id": 83,
+        "text": "Tableau de bord de contrôle personnalisable"
+       },
+       {
+        "id": 84,
+        "text": "Livraison ultra-rapide"
+       },
+       {
+        "id": 85,
+        "text": "Analyses et rapports complets"
+       },
+       {
+        "id": 86,
+        "text": "Équipe d’assistance dédiée"
+       },
+       {
+        "id": 87,
+        "text": "Intégrations et solutions personnalisées"
+       }
+      ],
+      "additional_perks": [
+       {
+        "id": 88,
+        "text": "Tout ce qui est inclus dans Starter Shuttle"
+       },
+       {
+        "id": 89,
+        "text": "Tout ce qui est inclus dans Pro Rocket"
+       },
+       {
+        "id": 90,
+        "text": "Tout ce qui est inclus dans Team Explorer"
+       }
+      ],
+      "CTA": {
+       "id": 45,
+       "text": "Contactez-nous",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      }
+     }
+    ]
+   },
+   {
+    "id": 6,
+    "documentId": "rdvhrmnjyh1phnxur3yw9wk2",
+    "name": "Team Explorer",
+    "price": 15000,
+    "sub_text": "launch",
+    "featured": true,
+    "createdAt": "2024-08-07T10:12:17.980Z",
+    "updatedAt": "2024-09-04T11:17:25.172Z",
+    "publishedAt": "2024-09-04T11:25:46.857Z",
+    "locale": "en",
+    "perks": [
+     {
+      "id": 34,
+      "text": "Launch up to 1,000,000 content items"
+     },
+     {
+      "id": 35,
+      "text": "Collaborative Mission Control Dashboard"
+     },
+     {
+      "id": 36,
+      "text": "High-Speed Delivery"
+     },
+     {
+      "id": 37,
+      "text": "Advanced analytics and reporting"
+     },
+     {
+      "id": 38,
+      "text": "Priority Support"
+     },
+     {
+      "id": 39,
+      "text": "Team collaboration tools"
+     }
+    ],
+    "CTA": {
+     "id": 38,
+     "text": "Get Started",
+     "URL": null,
+     "target": null,
+     "variant": "primary"
+    },
+    "product": {
+     "id": 8,
+     "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+     "name": "Payload Manager Pro",
+     "price": 2000,
+     "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+     "slug": "payload-manager-pro",
+     "featured": true,
+     "createdAt": "2024-08-07T14:33:49.508Z",
+     "updatedAt": "2024-09-12T10:40:52.601Z",
+     "publishedAt": "2024-09-12T10:40:52.666Z",
+     "locale": "en"
+    },
+    "localizations": [
+     {
+      "id": 16,
+      "documentId": "rdvhrmnjyh1phnxur3yw9wk2",
+      "name": "Team Explorer",
+      "price": 12600,
+      "sub_text": "Lancement",
+      "featured": true,
+      "createdAt": "2026-02-17T22:52:40.973Z",
+      "updatedAt": "2026-02-17T23:36:43.853Z",
+      "publishedAt": "2026-02-17T23:36:43.860Z",
+      "locale": "fr",
+      "perks": [
+       {
+        "id": 101,
+        "text": "Lancez jusqu’à 1 000 000 éléments de contenu"
+       },
+       {
+        "id": 102,
+        "text": "Tableau de bord de contrôle collaboratif"
+       },
+       {
+        "id": 103,
+        "text": "Livraison ultra-rapide"
+       },
+       {
+        "id": 104,
+        "text": "Analyses et rapports avancés"
+       },
+       {
+        "id": 105,
+        "text": "Support prioritaire"
+       },
+       {
+        "id": 106,
+        "text": "Outils de collaboration d’équipe"
+       }
+      ],
+      "additional_perks": [
+       {
+        "id": 107,
+        "text": "Tout ce qui est inclus dans Starter Shuttle"
+       },
+       {
+        "id": 108,
+        "text": "Tout ce qui est inclus dans Pro Rocket"
+       }
+      ],
+      "CTA": {
+       "id": 48,
+       "text": "Commencer",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      }
+     }
+    ]
+   }
+  ],
+  "dynamic_zone": [
+   {
+    "id": 8,
+    "heading": "Related Products",
+    "sub_heading": "Recently rose to popularity",
+    "products": [
+     {
+      "id": 14,
+      "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+      "name": "Mission Control Plus",
+      "price": 3000,
+      "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+      "slug": "mission-control-plus",
+      "featured": false,
+      "createdAt": "2024-08-07T14:37:26.800Z",
+      "updatedAt": "2026-02-17T23:05:59.806Z",
+      "publishedAt": "2026-02-17T23:05:59.816Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 19,
+        "documentId": "dgvxwxtr5pxwozkguevv50e3",
+        "name": "rocket-1.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_1_f4ba43fca0",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 575.75,
+        "url": "/uploads/rocket_1_f4ba43fca0.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.890Z",
+        "updatedAt": "2025-04-07T15:22:11.484Z",
+        "publishedAt": "2024-08-07T14:30:24.890Z"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "documentId": "okwmgmnt070hwh9t4496sxb5",
+      "name": "Analytics Insight Pack",
+      "price": 750,
+      "description": "Gain deeper insights into your content performance with the Analytics Insight Pack. Provides comprehensive analytics and reporting features.",
+      "slug": "analytics-insight-pack",
+      "featured": true,
+      "createdAt": "2024-08-07T14:36:10.854Z",
+      "updatedAt": "2024-09-12T09:06:26.365Z",
+      "publishedAt": "2024-09-12T09:06:26.394Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 16,
+        "documentId": "t84m2suuxcig1dh9hxxab2t6",
+        "name": "dashboard.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "dashboard_106c0d6b4b",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 364.41,
+        "url": "/uploads/dashboard_106c0d6b4b.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.247Z",
+        "updatedAt": "2025-04-07T15:22:11.171Z",
+        "publishedAt": "2024-08-07T14:30:24.247Z"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "documentId": "hptfn0nu6p5tgrbprrd83x45",
+      "name": "Enterprise Integration Kit",
+      "price": 8000,
+      "description": "Seamlessly integrate LaunchPad with your existing enterprise systems using the Enterprise Integration Kit. Designed for large organizations with complex needs.",
+      "slug": "enterprise-integration-kit",
+      "featured": false,
+      "createdAt": "2024-08-07T14:38:25.387Z",
+      "updatedAt": "2026-02-17T23:02:53.308Z",
+      "publishedAt": "2026-02-17T23:02:53.320Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 18,
+        "documentId": "herx65mzfrvsztiql417lqsf",
+        "name": "rocket-3.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_3_9a94bfe837",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 552.52,
+        "url": "/uploads/rocket_3_9a94bfe837.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.578Z",
+        "updatedAt": "2025-04-07T15:22:11.369Z",
+        "publishedAt": "2024-08-07T14:30:24.578Z"
+       }
+      ]
+     }
+    ],
+    "__component": "dynamic-zone.related-products"
+   }
+  ],
+  "categories": [
+   {
+    "id": 3,
+    "documentId": "fi5rtzu2jzqnmzvjg27w45pl",
+    "name": "software",
+    "createdAt": "2024-08-07T14:34:57.647Z",
+    "updatedAt": "2024-08-07T14:34:57.647Z",
+    "publishedAt": "2024-08-07T14:34:57.644Z",
+    "locale": "en",
+    "product": {
+     "id": 8,
+     "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+     "name": "Payload Manager Pro",
+     "price": 2000,
+     "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+     "slug": "payload-manager-pro",
+     "featured": true,
+     "createdAt": "2024-08-07T14:33:49.508Z",
+     "updatedAt": "2024-09-12T10:40:52.601Z",
+     "publishedAt": "2024-09-12T10:40:52.666Z",
+     "locale": "en"
+    },
+    "articles": [
+     {
+      "id": 11,
+      "documentId": "oqtq05m9iz4bryv5ryjf5wz2",
+      "title": "Not a Guide to Integrating Strapi with Next.js",
+      "description": "Looking to streamline your content management and delivery? This comprehensive guide walks you through the seamless integration of Strapi with Next.js. We'll cover everything (false) from initial setup to advanced configurations (nope), ensuring you have all the tools you need to send your content soaring (sure...).",
+      "slug": "not-a-guide-to-integrating-strapi-with-next-js",
+      "content": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Are you ready to elevate your content management and streamline your web development workflow? Integrating Strapi, a powerful headless CMS, with Next.js, the popular React framework, is the perfect combination for fast, dynamic websites and applications. In this guide, we’ll walk you through every step of the integration process—from initial setup to advanced configurations—so you can take full advantage of both platforms."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Why Integrate Strapi with Next.js?"
+         }
+        ],
+        "level": 3
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Combining Strapi with Next.js offers developers a flexible and scalable way to manage and deliver content. Strapi provides a headless CMS that allows you to easily create and manage content without being tied to a specific frontend, while Next.js ensures high-performance, server-side rendering, static site generation, and a smooth user experience."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Step 1: Setting Up Strapi"
+         }
+        ],
+        "level": 5
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "First, you’ll need to set up your Strapi CMS. This involves:"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Installing Strapi on your local or remote server"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Creating your API endpoints"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Configuring content types and adding your data Strapi’s intuitive admin panel allows you to manage your content and APIs with ease, giving you full control over what’s delivered to your Next.js frontend."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Step 2: Configuring Next.js"
+         }
+        ],
+        "level": 5
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Next, you’ll configure your Next.js application to fetch and render data from Strapi. This involves setting up API calls using Next.js' data-fetching methods like getStaticProps or getServerSideProps. With Strapi's well-structured API and powerful GraphQL or REST integrations, fetching content dynamically is simple and efficient."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Step 3: Fetching Data from Strapi"
+         }
+        ],
+        "level": 5
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Once your Next.js app is connected, you can pull in data directly from Strapi. This allows you to build dynamic pages or even entire applications that reflect your content updates in real time. Use API requests in Next.js to access your Strapi content and display it seamlessly in your frontend."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Step 4: Advanced Configurations"
+         }
+        ],
+        "level": 5
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "As your project scales, you might need advanced features such as:"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Authentication: Secure your content using Strapi's built-in authentication methods, or integrate third-party solutions."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Custom Plugins: Extend Strapi with custom plugins to add new functionalities tailored to your needs."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Static Site Generation (SSG): Take advantage of Next.js' static site generation for faster load times and better SEO, while still pulling in dynamic content from Strapi."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Conclusion"
+         }
+        ],
+        "level": 2
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Integrating Strapi with Next.js is a powerful way to enhance your content management and website performance. From easy setup to robust customization, this combination ensures you have all the tools to send your content soaring. Whether you’re building a small blog or a large-scale application, Strapi and Next.js offer the flexibility and speed you need to stay ahead of the curve."
+         }
+        ]
+       }
+      ],
+      "createdAt": "2024-08-07T17:08:42.921Z",
+      "updatedAt": "2026-02-20T00:00:05.093Z",
+      "publishedAt": "2026-02-20T00:00:05.108Z",
+      "locale": "en",
+      "dynamic_zone": [
+       {
+        "id": 11,
+        "heading": "Other interesting articles",
+        "sub_heading": null,
+        "__component": "dynamic-zone.related-articles"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "documentId": "hptfn0nu6p5tgrbprrd83x45",
+  "name": "Enterprise Integration Kit",
+  "price": 8000,
+  "description": "Seamlessly integrate LaunchPad with your existing enterprise systems using the Enterprise Integration Kit. Designed for large organizations with complex needs.",
+  "slug": "enterprise-integration-kit",
+  "featured": false,
+  "createdAt": "2024-08-07T14:38:25.387Z",
+  "updatedAt": "2026-02-17T23:02:53.308Z",
+  "publishedAt": "2026-02-17T23:02:53.320Z",
+  "locale": "en",
+  "perks": [
+   {
+    "id": 142,
+    "text": "Customizable integration options"
+   },
+   {
+    "id": 143,
+    "text": "Support for multiple platforms and services"
+   },
+   {
+    "id": 144,
+    "text": "Dedicated integration support"
+   }
+  ],
+  "images": [
+   {
+    "id": 18,
+    "documentId": "herx65mzfrvsztiql417lqsf",
+    "name": "rocket-3.png",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1024,
+    "height": 1024,
+    "hash": "rocket_3_9a94bfe837",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 552.52,
+    "url": "/uploads/rocket_3_9a94bfe837.png",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-08-07T14:30:24.578Z",
+    "updatedAt": "2025-04-07T15:22:11.369Z",
+    "publishedAt": "2024-08-07T14:30:24.578Z"
+   }
+  ],
+  "localizations": [
+   {
+    "id": 19,
+    "documentId": "hptfn0nu6p5tgrbprrd83x45",
+    "name": "Enterprise Integration Kit",
+    "price": 6800,
+    "description": "Intégrez facilement LaunchPad à vos systèmes d’entreprise existants grâce au Kit d’intégration Enterprise. Conçu pour les grandes organisations aux besoins complexes.",
+    "slug": "enterprise-integration-kit",
+    "featured": false,
+    "createdAt": "2026-02-17T23:02:38.490Z",
+    "updatedAt": "2026-02-19T22:12:11.616Z",
+    "publishedAt": "2026-02-19T22:12:11.627Z",
+    "locale": "fr"
+   }
+  ],
+  "plans": [],
+  "dynamic_zone": [
+   {
+    "id": 12,
+    "heading": "Related Products",
+    "sub_heading": "Recently rose to popularity",
+    "products": [
+     {
+      "id": 6,
+      "documentId": "ivpx8l7v0rxegp4qs74xatkx",
+      "name": "Content Rocket Booster",
+      "price": 1500,
+      "description": "Enhance the speed and performance of your content delivery with our Rocket Booster. Perfect for high-traffic websites needing rapid deployment.",
+      "slug": "content-rocket-booster",
+      "featured": true,
+      "createdAt": "2024-08-07T14:31:08.963Z",
+      "updatedAt": "2024-09-10T07:41:18.551Z",
+      "publishedAt": "2024-09-10T07:41:18.575Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 19,
+        "documentId": "dgvxwxtr5pxwozkguevv50e3",
+        "name": "rocket-1.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_1_f4ba43fca0",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 575.75,
+        "url": "/uploads/rocket_1_f4ba43fca0.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.890Z",
+        "updatedAt": "2025-04-07T15:22:11.484Z",
+        "publishedAt": "2024-08-07T14:30:24.890Z"
+       },
+       {
+        "id": 17,
+        "documentId": "mrdyqmal0qn2bz20jv2hsv8y",
+        "name": "rocket-2.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_2_26370b67c0",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 495.87,
+        "url": "/uploads/rocket_2_26370b67c0.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.285Z",
+        "updatedAt": "2025-04-07T15:22:11.278Z",
+        "publishedAt": "2024-08-07T14:30:24.286Z"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "documentId": "okwmgmnt070hwh9t4496sxb5",
+      "name": "Analytics Insight Pack",
+      "price": 750,
+      "description": "Gain deeper insights into your content performance with the Analytics Insight Pack. Provides comprehensive analytics and reporting features.",
+      "slug": "analytics-insight-pack",
+      "featured": true,
+      "createdAt": "2024-08-07T14:36:10.854Z",
+      "updatedAt": "2024-09-12T09:06:26.365Z",
+      "publishedAt": "2024-09-12T09:06:26.394Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 16,
+        "documentId": "t84m2suuxcig1dh9hxxab2t6",
+        "name": "dashboard.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "dashboard_106c0d6b4b",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 364.41,
+        "url": "/uploads/dashboard_106c0d6b4b.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.247Z",
+        "updatedAt": "2025-04-07T15:22:11.171Z",
+        "publishedAt": "2024-08-07T14:30:24.247Z"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+      "name": "Payload Manager Pro",
+      "price": 2000,
+      "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+      "slug": "payload-manager-pro",
+      "featured": true,
+      "createdAt": "2024-08-07T14:33:49.508Z",
+      "updatedAt": "2024-09-12T10:40:52.601Z",
+      "publishedAt": "2024-09-12T10:40:52.666Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 18,
+        "documentId": "herx65mzfrvsztiql417lqsf",
+        "name": "rocket-3.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_3_9a94bfe837",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 552.52,
+        "url": "/uploads/rocket_3_9a94bfe837.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.578Z",
+        "updatedAt": "2025-04-07T15:22:11.369Z",
+        "publishedAt": "2024-08-07T14:30:24.578Z"
+       },
+       {
+        "id": 20,
+        "documentId": "alawkc1z7vn4x4jl6bn3ezom",
+        "name": "rocket-4.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_4_55fae57ea4",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 558.98,
+        "url": "/uploads/rocket_4_55fae57ea4.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:25.318Z",
+        "updatedAt": "2025-04-07T15:22:11.619Z",
+        "publishedAt": "2024-08-07T14:30:25.319Z"
+       }
+      ]
+     }
+    ],
+    "__component": "dynamic-zone.related-products"
+   }
+  ],
+  "categories": [
+   {
+    "id": 7,
+    "documentId": "c2kr9hc89hd4rzfunvih66ct",
+    "name": "integration",
+    "createdAt": "2024-08-07T14:38:35.908Z",
+    "updatedAt": "2024-09-11T15:56:38.344Z",
+    "publishedAt": "2024-09-11T15:56:38.333Z",
+    "locale": "en",
+    "product": {
+     "id": 12,
+     "documentId": "hptfn0nu6p5tgrbprrd83x45",
+     "name": "Enterprise Integration Kit",
+     "price": 8000,
+     "description": "Seamlessly integrate LaunchPad with your existing enterprise systems using the Enterprise Integration Kit. Designed for large organizations with complex needs.",
+     "slug": "enterprise-integration-kit",
+     "featured": false,
+     "createdAt": "2024-08-07T14:38:25.387Z",
+     "updatedAt": "2026-02-17T23:02:53.308Z",
+     "publishedAt": "2026-02-17T23:02:53.320Z",
+     "locale": "en"
+    },
+    "articles": [
+     {
+      "id": 11,
+      "documentId": "oqtq05m9iz4bryv5ryjf5wz2",
+      "title": "Not a Guide to Integrating Strapi with Next.js",
+      "description": "Looking to streamline your content management and delivery? This comprehensive guide walks you through the seamless integration of Strapi with Next.js. We'll cover everything (false) from initial setup to advanced configurations (nope), ensuring you have all the tools you need to send your content soaring (sure...).",
+      "slug": "not-a-guide-to-integrating-strapi-with-next-js",
+      "content": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Are you ready to elevate your content management and streamline your web development workflow? Integrating Strapi, a powerful headless CMS, with Next.js, the popular React framework, is the perfect combination for fast, dynamic websites and applications. In this guide, we’ll walk you through every step of the integration process—from initial setup to advanced configurations—so you can take full advantage of both platforms."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Why Integrate Strapi with Next.js?"
+         }
+        ],
+        "level": 3
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Combining Strapi with Next.js offers developers a flexible and scalable way to manage and deliver content. Strapi provides a headless CMS that allows you to easily create and manage content without being tied to a specific frontend, while Next.js ensures high-performance, server-side rendering, static site generation, and a smooth user experience."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Step 1: Setting Up Strapi"
+         }
+        ],
+        "level": 5
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "First, you’ll need to set up your Strapi CMS. This involves:"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Installing Strapi on your local or remote server"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Creating your API endpoints"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Configuring content types and adding your data Strapi’s intuitive admin panel allows you to manage your content and APIs with ease, giving you full control over what’s delivered to your Next.js frontend."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Step 2: Configuring Next.js"
+         }
+        ],
+        "level": 5
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Next, you’ll configure your Next.js application to fetch and render data from Strapi. This involves setting up API calls using Next.js' data-fetching methods like getStaticProps or getServerSideProps. With Strapi's well-structured API and powerful GraphQL or REST integrations, fetching content dynamically is simple and efficient."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Step 3: Fetching Data from Strapi"
+         }
+        ],
+        "level": 5
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Once your Next.js app is connected, you can pull in data directly from Strapi. This allows you to build dynamic pages or even entire applications that reflect your content updates in real time. Use API requests in Next.js to access your Strapi content and display it seamlessly in your frontend."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Step 4: Advanced Configurations"
+         }
+        ],
+        "level": 5
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "As your project scales, you might need advanced features such as:"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Authentication: Secure your content using Strapi's built-in authentication methods, or integrate third-party solutions."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Custom Plugins: Extend Strapi with custom plugins to add new functionalities tailored to your needs."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Static Site Generation (SSG): Take advantage of Next.js' static site generation for faster load times and better SEO, while still pulling in dynamic content from Strapi."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": ""
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "children": [
+         {
+          "type": "text",
+          "text": "Conclusion"
+         }
+        ],
+        "level": 2
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "type": "text",
+          "text": "Integrating Strapi with Next.js is a powerful way to enhance your content management and website performance. From easy setup to robust customization, this combination ensures you have all the tools to send your content soaring. Whether you’re building a small blog or a large-scale application, Strapi and Next.js offer the flexibility and speed you need to stay ahead of the curve."
+         }
+        ]
+       }
+      ],
+      "createdAt": "2024-08-07T17:08:42.921Z",
+      "updatedAt": "2026-02-20T00:00:05.093Z",
+      "publishedAt": "2026-02-20T00:00:05.108Z",
+      "locale": "en",
+      "dynamic_zone": [
+       {
+        "id": 11,
+        "heading": "Other interesting articles",
+        "sub_heading": null,
+        "__component": "dynamic-zone.related-articles"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+  "name": "Mission Control Plus",
+  "price": 3000,
+  "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+  "slug": "mission-control-plus",
+  "featured": false,
+  "createdAt": "2024-08-07T14:37:26.800Z",
+  "updatedAt": "2026-02-17T23:05:59.806Z",
+  "publishedAt": "2026-02-17T23:05:59.816Z",
+  "locale": "en",
+  "perks": [
+   {
+    "id": 148,
+    "text": "Advanced monitoring tools"
+   },
+   {
+    "id": 149,
+    "text": "Real-time status updates"
+   },
+   {
+    "id": 150,
+    "text": "Automated alerts and notifications"
+   }
+  ],
+  "images": [
+   {
+    "id": 19,
+    "documentId": "dgvxwxtr5pxwozkguevv50e3",
+    "name": "rocket-1.png",
+    "alternativeText": null,
+    "caption": null,
+    "focalPoint": null,
+    "width": 1024,
+    "height": 1024,
+    "hash": "rocket_1_f4ba43fca0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 575.75,
+    "url": "/uploads/rocket_1_f4ba43fca0.png",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2024-08-07T14:30:24.890Z",
+    "updatedAt": "2025-04-07T15:22:11.484Z",
+    "publishedAt": "2024-08-07T14:30:24.890Z"
+   }
+  ],
+  "localizations": [
+   {
+    "id": 20,
+    "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+    "name": "Mission Control Plus",
+    "price": 2550,
+    "description": "Améliorez votre centre de contrôle avec Mission Control Plus. Offre des fonctionnalités avancées de surveillance et de gestion pour vos lancements de contenu.",
+    "slug": "mission-control-plus",
+    "featured": false,
+    "createdAt": "2026-02-17T23:05:30.423Z",
+    "updatedAt": "2026-02-19T22:12:25.705Z",
+    "publishedAt": "2026-02-19T22:12:25.714Z",
+    "locale": "fr"
+   }
+  ],
+  "plans": [
+   {
+    "id": 5,
+    "documentId": "ysf6c3nbf9n2ik07vr572kve",
+    "name": "Pro Rocket",
+    "price": 3000,
+    "sub_text": "launch",
+    "featured": null,
+    "createdAt": "2024-08-07T10:11:28.756Z",
+    "updatedAt": "2024-09-04T11:16:58.599Z",
+    "publishedAt": "2024-09-04T11:25:46.857Z",
+    "locale": "en",
+    "perks": [
+     {
+      "id": 28,
+      "text": "Launch up to 100,000 content items"
+     },
+     {
+      "id": 29,
+      "text": "Advanced Mission Control Dashboard"
+     },
+     {
+      "id": 30,
+      "text": "High Speed Delivery"
+     },
+     {
+      "id": 31,
+      "text": "Advanced analytics"
+     },
+     {
+      "id": 32,
+      "text": "Priority Support"
+     }
+    ],
+    "CTA": {
+     "id": 37,
+     "text": "Get Started",
+     "URL": null,
+     "target": null,
+     "variant": "primary"
+    },
+    "product": {
+     "id": 14,
+     "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+     "name": "Mission Control Plus",
+     "price": 3000,
+     "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+     "slug": "mission-control-plus",
+     "featured": false,
+     "createdAt": "2024-08-07T14:37:26.800Z",
+     "updatedAt": "2026-02-17T23:05:59.806Z",
+     "publishedAt": "2026-02-17T23:05:59.816Z",
+     "locale": "en"
+    },
+    "localizations": [
+     {
+      "id": 15,
+      "documentId": "ysf6c3nbf9n2ik07vr572kve",
+      "name": "Pro Rocket",
+      "price": 2500,
+      "sub_text": "lancement",
+      "featured": false,
+      "createdAt": "2026-02-17T22:46:39.527Z",
+      "updatedAt": "2026-02-17T23:35:47.026Z",
+      "publishedAt": "2026-02-17T23:35:47.037Z",
+      "locale": "fr",
+      "perks": [
+       {
+        "id": 95,
+        "text": "Lancez jusqu’à 100 000 éléments de contenu"
+       },
+       {
+        "id": 96,
+        "text": "Tableau de bord de contrôle avancé"
+       },
+       {
+        "id": 97,
+        "text": "Livraison à grande vitesse"
+       },
+       {
+        "id": 98,
+        "text": "Analyses avancées"
+       },
+       {
+        "id": 99,
+        "text": "Support prioritaire"
+       }
+      ],
+      "additional_perks": [
+       {
+        "id": 100,
+        "text": "Tout ce qui est inclus dans Starter Shuttle"
+       }
+      ],
+      "CTA": {
+       "id": 47,
+       "text": "Commencer",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      }
+     }
+    ]
+   },
+   {
+    "id": 11,
+    "documentId": "sltcgbanxa3rmlgj6zob1ex9",
+    "name": "Starter Shuttle",
+    "price": 100,
+    "sub_text": "launch",
+    "featured": false,
+    "createdAt": "2024-08-07T10:10:39.444Z",
+    "updatedAt": "2026-02-17T22:48:55.881Z",
+    "publishedAt": "2026-02-17T22:48:55.897Z",
+    "locale": "en",
+    "perks": [
+     {
+      "id": 70,
+      "text": "Launch up to 1,000 content items"
+     },
+     {
+      "id": 71,
+      "text": "Basic Mission Control Dashboard"
+     },
+     {
+      "id": 72,
+      "text": "Standard Delivery"
+     },
+     {
+      "id": 73,
+      "text": "Basic analytics"
+     }
+    ],
+    "CTA": {
+     "id": 43,
+     "text": "Get Started",
+     "URL": null,
+     "target": null,
+     "variant": "primary"
+    },
+    "product": {
+     "id": 14,
+     "documentId": "gqw7wwpeuf4lisyaubf4dtxm",
+     "name": "Mission Control Plus",
+     "price": 3000,
+     "description": "Upgrade your control center with Mission Control Plus. Offers enhanced monitoring and management features for your content launches.",
+     "slug": "mission-control-plus",
+     "featured": false,
+     "createdAt": "2024-08-07T14:37:26.800Z",
+     "updatedAt": "2026-02-17T23:05:59.806Z",
+     "publishedAt": "2026-02-17T23:05:59.816Z",
+     "locale": "en"
+    },
+    "localizations": [
+     {
+      "id": 14,
+      "documentId": "sltcgbanxa3rmlgj6zob1ex9",
+      "name": "Starter Shuttle",
+      "price": 85,
+      "sub_text": "lancement",
+      "featured": false,
+      "createdAt": "2026-02-17T22:48:45.194Z",
+      "updatedAt": "2026-02-17T23:35:33.838Z",
+      "publishedAt": "2026-02-17T23:35:33.846Z",
+      "locale": "fr",
+      "perks": [
+       {
+        "id": 91,
+        "text": "Lancez jusqu’à 1 000 éléments de contenu"
+       },
+       {
+        "id": 92,
+        "text": "Tableau de bord de contrôle basique"
+       },
+       {
+        "id": 93,
+        "text": "Livraison standard"
+       },
+       {
+        "id": 94,
+        "text": "Analyses basiques"
+       }
+      ],
+      "additional_perks": [],
+      "CTA": {
+       "id": 46,
+       "text": "Commencer",
+       "URL": null,
+       "target": null,
+       "variant": "primary"
+      }
+     }
+    ]
+   }
+  ],
+  "dynamic_zone": [
+   {
+    "id": 14,
+    "heading": "Related Products",
+    "sub_heading": "Recently rose to popularity",
+    "products": [
+     {
+      "id": 7,
+      "documentId": "okwmgmnt070hwh9t4496sxb5",
+      "name": "Analytics Insight Pack",
+      "price": 750,
+      "description": "Gain deeper insights into your content performance with the Analytics Insight Pack. Provides comprehensive analytics and reporting features.",
+      "slug": "analytics-insight-pack",
+      "featured": true,
+      "createdAt": "2024-08-07T14:36:10.854Z",
+      "updatedAt": "2024-09-12T09:06:26.365Z",
+      "publishedAt": "2024-09-12T09:06:26.394Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 16,
+        "documentId": "t84m2suuxcig1dh9hxxab2t6",
+        "name": "dashboard.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "dashboard_106c0d6b4b",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 364.41,
+        "url": "/uploads/dashboard_106c0d6b4b.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.247Z",
+        "updatedAt": "2025-04-07T15:22:11.171Z",
+        "publishedAt": "2024-08-07T14:30:24.247Z"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "documentId": "hptfn0nu6p5tgrbprrd83x45",
+      "name": "Enterprise Integration Kit",
+      "price": 8000,
+      "description": "Seamlessly integrate LaunchPad with your existing enterprise systems using the Enterprise Integration Kit. Designed for large organizations with complex needs.",
+      "slug": "enterprise-integration-kit",
+      "featured": false,
+      "createdAt": "2024-08-07T14:38:25.387Z",
+      "updatedAt": "2026-02-17T23:02:53.308Z",
+      "publishedAt": "2026-02-17T23:02:53.320Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 18,
+        "documentId": "herx65mzfrvsztiql417lqsf",
+        "name": "rocket-3.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_3_9a94bfe837",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 552.52,
+        "url": "/uploads/rocket_3_9a94bfe837.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.578Z",
+        "updatedAt": "2025-04-07T15:22:11.369Z",
+        "publishedAt": "2024-08-07T14:30:24.578Z"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "documentId": "qa8nr6db29sixxeh0c9vwmyl",
+      "name": "Payload Manager Pro",
+      "price": 2000,
+      "description": "Streamline your content organization and management with the Payload Manager Pro. Ideal for teams handling large volumes of content.",
+      "slug": "payload-manager-pro",
+      "featured": true,
+      "createdAt": "2024-08-07T14:33:49.508Z",
+      "updatedAt": "2024-09-12T10:40:52.601Z",
+      "publishedAt": "2024-09-12T10:40:52.666Z",
+      "locale": "en",
+      "images": [
+       {
+        "id": 18,
+        "documentId": "herx65mzfrvsztiql417lqsf",
+        "name": "rocket-3.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_3_9a94bfe837",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 552.52,
+        "url": "/uploads/rocket_3_9a94bfe837.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:24.578Z",
+        "updatedAt": "2025-04-07T15:22:11.369Z",
+        "publishedAt": "2024-08-07T14:30:24.578Z"
+       },
+       {
+        "id": 20,
+        "documentId": "alawkc1z7vn4x4jl6bn3ezom",
+        "name": "rocket-4.png",
+        "alternativeText": null,
+        "caption": null,
+        "focalPoint": null,
+        "width": 1024,
+        "height": 1024,
+        "hash": "rocket_4_55fae57ea4",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 558.98,
+        "url": "/uploads/rocket_4_55fae57ea4.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-08-07T14:30:25.318Z",
+        "updatedAt": "2025-04-07T15:22:11.619Z",
+        "publishedAt": "2024-08-07T14:30:25.319Z"
+       }
+      ]
+     }
+    ],
+    "__component": "dynamic-zone.related-products"
+   }
+  ],
+  "categories": []
+ }
+]

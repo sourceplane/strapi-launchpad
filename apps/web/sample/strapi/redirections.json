@@ -1,0 +1,10 @@
+[
+ {
+  "source": "/i-have-a-question",
+  "destination": "/faq"
+ },
+ {
+  "source": "/producs",
+  "destination": "/products"
+ }
+]

@@ -1,0 +1,11 @@
+{
+  "cloudflare-r2/dev": {
+    "r2_bucket_name": "dev-strapi-launchpad-dev"
+  },
+  "cloudflare-r2/stage": {
+    "r2_bucket_name": "stg-strapi-launchpad-stage"
+  },
+  "cloudflare-r2/prod": {
+    "r2_bucket_name": "prod-strapi-launchpad-prod"
+  }
+}

@@ -1,0 +1,3 @@
+# Worker secrets for `pnpm --filter @app/web preview` (wrangler dev) — copy to
+# .dev.vars. Deployed Workers take theirs from `wrangler secret put`.
+PREVIEW_SECRET=
